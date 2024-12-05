@@ -1,0 +1,46 @@
+# bar chart
+
+#axes.spines.left:   True  # display axis spines
+#axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+
+# text.usetex: False
+# font.size: 9
+# font.weight: bold
+# legend.fontsize: 12
+
+# yticks
+# ytick.labelsize: 9
+# ytick.color: 'black'
+# ytick.major.size: 10.0
+
+
+# xticks
+# xtick.major.size: 10.0
+xtick.bottom : False
+
+xtick.major.pad:     7.0
+xtick.major.weight: bold
+
+# xtick.minor.size : 4.0   # Set the size of the minor ticks in the x-axis
+# xtick.minor.width : 1.0  # Set the width of the minor ticks in the x-axis
+xtick.minor.visible : true  # Show the minor ticks in the x-axis
+
+# axes.linewidth: 1.5
+# lines.linewidth: 1.5
+
+patch.linewidth: 0.2
+
+legend.handlelength: 1.5
+legend.handleheight: 1.5
+legend.columnspacing:3
+legend.handletextpad: 0.4
+legend.labelspacing: 2.0
+
+figure.subplot.hspace : 0.4
+figure.subplot.wspace : 0.8
+
+axes.titlepad: -7
+axes.titlesize : 6
+axes.titleweight: bold

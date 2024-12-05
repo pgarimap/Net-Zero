@@ -1,0 +1,51 @@
+,Units,region,fuel,value
+10,EJ,Africa_Western,a oil,4.67192
+32,EJ,Africa_Western,b natural gas,4.2142609
+54,EJ,Africa_Western,c coal,0.0161156
+76,EJ,Africa_Western,d biomass,11.566187282000001
+93,EJ,Africa_Western,e nuclear,0.6823767771816823
+114,EJ,Africa_Western,f hydro,0.7326406621503105
+134,EJ,Africa_Western,g wind,4.701007469777295
+154,EJ,Africa_Western,h solar,9.130026507009132
+171,EJ,Africa_Western,i geothermal,0.4199963349705093
+192,EJ,Africa_Western,j traditional biomass,4.3600591
+213,EJ,Brazil,a oil,2.22004
+235,EJ,Brazil,b natural gas,1.2462096
+257,EJ,Brazil,c coal,0.0565085
+279,EJ,Brazil,d biomass,6.42314161
+300,EJ,Brazil,e nuclear,0.3612760620599805
+321,EJ,Brazil,f hydro,2.9045148840465704
+341,EJ,Brazil,g wind,3.5011353692387677
+359,EJ,Brazil,h solar,3.637194645123284
+376,EJ,Brazil,i geothermal,0.71199709201292
+397,EJ,Brazil,j traditional biomass,0.05899408
+418,EJ,China,a oil,6.43068
+440,EJ,China,b natural gas,9.974682
+462,EJ,China,c coal,20.8352
+484,EJ,China,d biomass,35.30799758
+504,EJ,China,e nuclear,25.096551343794474
+525,EJ,China,f hydro,9.647966389583852
+546,EJ,China,g wind,35.83538078555468
+567,EJ,China,h solar,49.34607464113288
+588,EJ,China,i geothermal,1.9865558296637997
+609,EJ,China,j traditional biomass,0.61312
+630,EJ,India,a oil,3.37397
+652,EJ,India,b natural gas,7.047907899999999
+674,EJ,India,c coal,3.9572
+696,EJ,India,d biomass,15.835708172399999
+717,EJ,India,e nuclear,4.286188778984829
+738,EJ,India,f hydro,1.8339924470592133
+759,EJ,India,g wind,19.907109892811718
+779,EJ,India,h solar,39.813613348161454
+796,EJ,India,i geothermal,1.0916198825338999
+817,EJ,India,j traditional biomass,0.6712293410000001
+1041,EJ,South Asia,a oil,0.24331029999999998
+1063,EJ,South Asia,b natural gas,2.7807492999999996
+1085,EJ,South Asia,c coal,0.1106133
+1107,EJ,South Asia,d biomass,3.204571416341
+1128,EJ,South Asia,e nuclear,0.6779831329206432
+1149,EJ,South Asia,f hydro,0.6167596822416912
+1169,EJ,South Asia,g wind,4.811838389224704
+1189,EJ,South Asia,h solar,7.372650883168678
+1206,EJ,South Asia,i geothermal,0.9313763162669125
+1227,EJ,South Asia,j traditional biomass,0.4688595

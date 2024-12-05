@@ -1,0 +1,12 @@
+# stacked area
+
+#axes.spines.left:   True  # display axis spines
+#axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+
+figure.subplot.wspace: 0.3
+figure.subplot.left:   0.07   # the left side of the subplots of the figure
+
+legend.columnspacing:2
+

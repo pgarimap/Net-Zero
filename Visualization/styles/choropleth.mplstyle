@@ -1,0 +1,41 @@
+xtick.top:           False   # draw ticks on the top side
+xtick.bottom:        False    # draw ticks on the bottom side
+xtick.labeltop:      False   # draw label on the top
+xtick.labelbottom:   False    # draw label on the bottom
+
+ytick.left:          False    # draw ticks on the left side
+ytick.right:         False   # draw ticks on the right side
+ytick.labelleft:     False    # draw tick labels on the left side
+ytick.labelright:    False   # draw tick labels on the right side
+
+patch.linewidth:       0.5    # edge width in points.
+patch.facecolor:       C0
+patch.edgecolor:       gray  # if forced, or patch is not filled
+patch.force_edgecolor: False  # True to always use edgecolor
+patch.antialiased:     True   # render patches in antialiased (no jaggies)
+
+
+legend.loc:           upper left
+legend.frameon:       True     # if True, draw the legend on a background patch
+#legend.framealpha:    0.8      # legend patch transparency
+#legend.facecolor:     inherit  # inherit from axes.facecolor; or color spec
+#legend.edgecolor:     0.8      # background patch boundary color
+#legend.fancybox:      True     # if True, use a rounded box for the
+                                # legend background, else a rectangle
+#legend.shadow:        False    # if True, give background a shadow effect
+#legend.numpoints:     1        # the number of marker points in the legend line
+#legend.scatterpoints: 1        # number of scatter points
+#legend.markerscale:   1.0      # the relative size of legend markers vs. original
+#legend.fontsize:      medium
+#legend.labelcolor:    None
+#legend.title_fontsize: None    # None sets to the same as the default axes.
+
+## Dimensions as fraction of font size:
+#legend.borderpad:     0.4  # border whitespace
+#legend.labelspacing:  0.5  # the vertical space between the legend entries
+#legend.handlelength:  2.0  # the length of the legend lines
+legend.handleheight:  2.0  # the height of the legend handle
+#legend.handletextpad: 0.8  # the space between the legend line and legend text
+#legend.borderaxespad: 0.5  # the border between the axes and legend edge
+#legend.columnspacing: 2.0  # column separation
+

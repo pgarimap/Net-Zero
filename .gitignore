@@ -1,0 +1,7 @@
+__pycache__
+*.png
+*.pdf
+*.eps
+.DS_Store
+.idea/
+results/

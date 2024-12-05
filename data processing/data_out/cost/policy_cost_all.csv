@@ -1,0 +1,441 @@
+,region,Year,value
+0,Africa_Eastern,1975,0.0
+1,Africa_Eastern,1990,0.0
+2,Africa_Eastern,2005,0.0
+3,Africa_Eastern,2010,0.0
+4,Africa_Eastern,2015,0.0
+5,Africa_Eastern,2020,0.0
+6,Africa_Eastern,2025,111.416
+7,Africa_Eastern,2030,525.147
+8,Africa_Eastern,2035,1757.27
+9,Africa_Eastern,2040,3460.69
+10,Africa_Eastern,2045,5345.18
+11,Africa_Eastern,2050,7480.72
+12,Africa_Eastern,2055,9907.23
+13,Africa_Eastern,2060,12195.3
+14,Africa_Eastern,2065,13467.2
+15,Africa_Eastern,2070,14699.7
+16,Africa_Eastern,2075,16453.7
+17,Africa_Eastern,2080,18363.1
+18,Africa_Eastern,2085,22836.4
+19,Africa_Eastern,2090,26099.6
+20,Africa_Eastern,2095,29282.2
+21,Africa_Eastern,2100,32214.5
+22,Africa_Southern,1975,0.0
+23,Africa_Southern,1990,0.0
+24,Africa_Southern,2005,0.0
+25,Africa_Southern,2010,0.0
+26,Africa_Southern,2015,0.0
+27,Africa_Southern,2020,0.0
+28,Africa_Southern,2025,120.65
+29,Africa_Southern,2030,585.454
+30,Africa_Southern,2035,1972.52
+31,Africa_Southern,2040,3850.37
+32,Africa_Southern,2045,6305.59
+33,Africa_Southern,2050,9572.21
+34,Africa_Southern,2055,13893.3
+35,Africa_Southern,2060,18626.3
+36,Africa_Southern,2065,24109.2
+37,Africa_Southern,2070,29752.1
+38,Africa_Southern,2075,35855.4
+39,Africa_Southern,2080,41289.6
+40,Africa_Southern,2085,45890.1
+41,Africa_Southern,2090,49365.8
+42,Africa_Southern,2095,51936.0
+43,Africa_Southern,2100,55854.1
+44,Africa_Western,1975,0.0
+45,Africa_Western,1990,0.0
+46,Africa_Western,2005,0.0
+47,Africa_Western,2010,0.0
+48,Africa_Western,2015,0.0
+49,Africa_Western,2020,0.0
+50,Africa_Western,2025,306.343
+51,Africa_Western,2030,1569.03
+52,Africa_Western,2035,4638.69
+53,Africa_Western,2040,8635.42
+54,Africa_Western,2045,14072.6
+55,Africa_Western,2050,21281.6
+56,Africa_Western,2055,30880.4
+57,Africa_Western,2060,42001.3
+58,Africa_Western,2065,54940.2
+59,Africa_Western,2070,72001.5
+60,Africa_Western,2075,91372.2
+61,Africa_Western,2080,109768.0
+62,Africa_Western,2085,130068.0
+63,Africa_Western,2090,151682.0
+64,Africa_Western,2095,173336.0
+65,Africa_Western,2100,197061.0
+66,Argentina,1975,0.0
+67,Argentina,1990,0.0
+68,Argentina,2005,0.0
+69,Argentina,2010,0.0
+70,Argentina,2015,0.0
+71,Argentina,2020,51.052
+72,Argentina,2025,207.183
+73,Argentina,2030,847.948
+74,Argentina,2035,2044.28
+75,Argentina,2040,2975.97
+76,Argentina,2045,3943.33
+77,Argentina,2050,5050.76
+78,Argentina,2055,6530.84
+79,Argentina,2060,8588.99
+80,Argentina,2065,11001.0
+81,Argentina,2070,14406.7
+82,Argentina,2075,19072.8
+83,Argentina,2080,25069.9
+84,Argentina,2085,32161.0
+85,Argentina,2090,40243.5
+86,Argentina,2095,49073.0
+87,Argentina,2100,58202.5
+88,Australia_NZ,1975,0.0
+89,Australia_NZ,1990,0.0
+90,Australia_NZ,2005,0.0
+91,Australia_NZ,2010,0.0
+92,Australia_NZ,2015,0.0
+93,Australia_NZ,2020,134.75
+94,Australia_NZ,2025,507.275
+95,Australia_NZ,2030,2729.66
+96,Australia_NZ,2035,6766.99
+97,Australia_NZ,2040,9024.54
+98,Australia_NZ,2045,11043.9
+99,Australia_NZ,2050,12822.6
+100,Australia_NZ,2055,15276.8
+101,Australia_NZ,2060,19126.2
+102,Australia_NZ,2065,25564.5
+103,Australia_NZ,2070,40109.9
+104,Australia_NZ,2075,60498.0
+105,Australia_NZ,2080,81880.3
+106,Australia_NZ,2085,102706.0
+107,Australia_NZ,2090,120058.0
+108,Australia_NZ,2095,132924.0
+109,Australia_NZ,2100,141811.0
+110,Brazil,1975,0.0
+111,Brazil,1990,0.0
+112,Brazil,2005,0.0
+113,Brazil,2010,0.0
+114,Brazil,2015,0.0
+115,Brazil,2020,251.763
+116,Brazil,2025,780.963
+117,Brazil,2030,3318.46
+118,Brazil,2035,7994.93
+119,Brazil,2040,11469.8
+120,Brazil,2045,14822.1
+121,Brazil,2050,18242.9
+122,Brazil,2055,23118.3
+123,Brazil,2060,30471.8
+124,Brazil,2065,41403.9
+125,Brazil,2070,57117.4
+126,Brazil,2075,69403.4
+127,Brazil,2080,79237.5
+128,Brazil,2085,90231.4
+129,Brazil,2090,103527.0
+130,Brazil,2095,121322.0
+131,Brazil,2100,146527.0
+132,Canada,1975,0.0
+133,Canada,1990,0.0
+134,Canada,2005,0.0
+135,Canada,2010,0.0
+136,Canada,2015,0.0
+137,Canada,2020,193.548
+138,Canada,2025,642.415
+139,Canada,2030,2349.81
+140,Canada,2035,5862.1
+141,Canada,2040,8706.94
+142,Canada,2045,11723.6
+143,Canada,2050,14259.8
+144,Canada,2055,16984.5
+145,Canada,2060,20904.4
+146,Canada,2065,26189.0
+147,Canada,2070,34735.5
+148,Canada,2075,45110.5
+149,Canada,2080,57340.5
+150,Canada,2085,64105.6
+151,Canada,2090,69188.9
+152,Canada,2095,72282.9
+153,Canada,2100,72114.6
+154,China,1975,0.0
+155,China,1990,0.0
+156,China,2005,0.0
+157,China,2010,0.0
+158,China,2015,0.0
+159,China,2020,0.0
+160,China,2025,16567.8
+161,China,2030,75575.2
+162,China,2035,175152.0
+163,China,2040,253446.0
+164,China,2045,326064.0
+165,China,2050,378297.0
+166,China,2055,412104.0
+167,China,2060,441920.0
+168,China,2065,474784.0
+169,China,2070,514022.0
+170,China,2075,554652.0
+171,China,2080,587845.0
+172,China,2085,657728.0
+173,China,2090,757659.0
+174,China,2095,873866.0
+175,China,2100,951637.0
+176,Colombia,1975,0.0
+177,Colombia,1990,0.0
+178,Colombia,2005,0.0
+179,Colombia,2010,0.0
+180,Colombia,2015,0.0
+181,Colombia,2020,37.4586
+182,Colombia,2025,110.51
+183,Colombia,2030,480.463
+184,Colombia,2035,1591.23
+185,Colombia,2040,2579.9
+186,Colombia,2045,3510.44
+187,Colombia,2050,4626.97
+188,Colombia,2055,6126.67
+189,Colombia,2060,8396.04
+190,Colombia,2065,12061.1
+191,Colombia,2070,16634.1
+192,Colombia,2075,20453.3
+193,Colombia,2080,24166.1
+194,Colombia,2085,27896.1
+195,Colombia,2090,31405.9
+196,Colombia,2095,34481.1
+197,Colombia,2100,37641.8
+198,EU-15,1975,0.0
+199,EU-15,1990,0.0
+200,EU-15,2005,0.0
+201,EU-15,2010,0.0
+202,EU-15,2015,0.0
+203,EU-15,2020,421.666
+204,EU-15,2025,2071.28
+205,EU-15,2030,8132.77
+206,EU-15,2035,21988.5
+207,EU-15,2040,30960.3
+208,EU-15,2045,41104.7
+209,EU-15,2050,51447.3
+210,EU-15,2055,60655.8
+211,EU-15,2060,68812.4
+212,EU-15,2065,76852.4
+213,EU-15,2070,86469.5
+214,EU-15,2075,96877.2
+215,EU-15,2080,107762.0
+216,EU-15,2085,124286.0
+217,EU-15,2090,145400.0
+218,EU-15,2095,170689.0
+219,EU-15,2100,207087.0
+220,European Free Trade Association,1975,0.0
+221,European Free Trade Association,1990,0.0
+222,European Free Trade Association,2005,0.0
+223,European Free Trade Association,2010,0.0
+224,European Free Trade Association,2015,0.0
+225,European Free Trade Association,2020,17.0756
+226,European Free Trade Association,2025,38.558
+227,European Free Trade Association,2030,160.718
+228,European Free Trade Association,2035,630.345
+229,European Free Trade Association,2040,959.078
+230,European Free Trade Association,2045,1484.87
+231,European Free Trade Association,2050,2308.59
+232,European Free Trade Association,2055,3312.88
+233,European Free Trade Association,2060,4497.12
+234,European Free Trade Association,2065,5505.77
+235,European Free Trade Association,2070,5281.81
+236,European Free Trade Association,2075,5568.83
+237,European Free Trade Association,2080,6809.05
+238,European Free Trade Association,2085,7157.29
+239,European Free Trade Association,2090,7511.17
+240,European Free Trade Association,2095,7536.92
+241,European Free Trade Association,2100,12084.4
+242,India,1975,0.0
+243,India,1990,0.0
+244,India,2005,0.0
+245,India,2010,0.0
+246,India,2015,0.0
+247,India,2020,54.8344
+248,India,2025,4617.29
+249,India,2030,20751.2
+250,India,2035,51664.1
+251,India,2040,81077.0
+252,India,2045,115562.0
+253,India,2050,147982.0
+254,India,2055,172535.0
+255,India,2060,191314.0
+256,India,2065,204851.0
+257,India,2070,218169.0
+258,India,2075,229512.0
+259,India,2080,231685.0
+260,India,2085,235268.0
+261,India,2090,240734.0
+262,India,2095,249479.0
+263,India,2100,260917.0
+264,Mexico,1975,0.0
+265,Mexico,1990,0.0
+266,Mexico,2005,0.0
+267,Mexico,2010,0.0
+268,Mexico,2015,0.0
+269,Mexico,2020,127.959
+270,Mexico,2025,400.131
+271,Mexico,2030,1787.33
+272,Mexico,2035,4763.24
+273,Mexico,2040,6872.0
+274,Mexico,2045,9742.24
+275,Mexico,2050,13337.0
+276,Mexico,2055,18175.8
+277,Mexico,2060,24855.5
+278,Mexico,2065,33560.6
+279,Mexico,2070,45739.0
+280,Mexico,2075,59176.2
+281,Mexico,2080,73198.6
+282,Mexico,2085,87939.9
+283,Mexico,2090,100960.0
+284,Mexico,2095,110885.0
+285,Mexico,2100,118918.0
+286,Middle East,1975,0.0
+287,Middle East,1990,0.0
+288,Middle East,2005,0.0
+289,Middle East,2010,0.0
+290,Middle East,2015,0.0
+291,Middle East,2020,430.245
+292,Middle East,2025,1382.19
+293,Middle East,2030,5207.15
+294,Middle East,2035,13877.3
+295,Middle East,2040,23821.5
+296,Middle East,2045,35189.8
+297,Middle East,2050,47937.3
+298,Middle East,2055,63132.8
+299,Middle East,2060,81911.5
+300,Middle East,2065,108095.0
+301,Middle East,2070,152855.0
+302,Middle East,2075,194654.0
+303,Middle East,2080,233482.0
+304,Middle East,2085,272295.0
+305,Middle East,2090,309195.0
+306,Middle East,2095,341048.0
+307,Middle East,2100,365573.0
+308,Russia,1975,0.0
+309,Russia,1990,0.0
+310,Russia,2005,0.0
+311,Russia,2010,0.0
+312,Russia,2015,0.0
+313,Russia,2020,0.0
+314,Russia,2025,2238.12
+315,Russia,2030,10218.9
+316,Russia,2035,20866.2
+317,Russia,2040,27305.5
+318,Russia,2045,34001.2
+319,Russia,2050,41885.3
+320,Russia,2055,51409.8
+321,Russia,2060,64119.6
+322,Russia,2065,79501.6
+323,Russia,2070,106783.0
+324,Russia,2075,136579.0
+325,Russia,2080,156538.0
+326,Russia,2085,178235.0
+327,Russia,2090,195016.0
+328,Russia,2095,201393.0
+329,Russia,2100,200733.0
+330,South Africa,1975,0.0
+331,South Africa,1990,0.0
+332,South Africa,2005,0.0
+333,South Africa,2010,0.0
+334,South Africa,2015,0.0
+335,South Africa,2020,216.98
+336,South Africa,2025,644.556
+337,South Africa,2030,2909.28
+338,South Africa,2035,7161.08
+339,South Africa,2040,10461.6
+340,South Africa,2045,13604.3
+341,South Africa,2050,15546.5
+342,South Africa,2055,16394.0
+343,South Africa,2060,16885.2
+344,South Africa,2065,17244.9
+345,South Africa,2070,17951.9
+346,South Africa,2075,18553.1
+347,South Africa,2080,18424.9
+348,South Africa,2085,19016.2
+349,South Africa,2090,19989.6
+350,South Africa,2095,21239.4
+351,South Africa,2100,22737.6
+352,South Asia,1975,0.0
+353,South Asia,1990,0.0
+354,South Asia,2005,0.0
+355,South Asia,2010,0.0
+356,South Asia,2015,0.0
+357,South Asia,2020,0.0
+358,South Asia,2025,474.139
+359,South Asia,2030,1898.45
+360,South Asia,2035,4877.139999999999
+361,South Asia,2040,8013.77
+362,South Asia,2045,11174.880000000001
+363,South Asia,2050,14579.65
+364,South Asia,2055,17856.91
+365,South Asia,2060,21257.7
+366,South Asia,2065,24151.9
+367,South Asia,2070,27431.0
+368,South Asia,2075,30838.2
+369,South Asia,2080,34394.6
+370,South Asia,2085,38982.6
+371,South Asia,2090,44630.2
+372,South Asia,2095,51153.0
+373,South Asia,2100,61161.899999999994
+374,South Korea,1975,0.0
+375,South Korea,1990,0.0
+376,South Korea,2005,0.0
+377,South Korea,2010,0.0
+378,South Korea,2015,0.0
+379,South Korea,2020,262.207
+380,South Korea,2025,555.701
+381,South Korea,2030,2677.58
+382,South Korea,2035,6785.22
+383,South Korea,2040,9198.57
+384,South Korea,2045,11164.9
+385,South Korea,2050,12240.9
+386,South Korea,2055,12755.4
+387,South Korea,2060,13248.8
+388,South Korea,2065,13697.2
+389,South Korea,2070,14389.0
+390,South Korea,2075,14480.3
+391,South Korea,2080,13736.1
+392,South Korea,2085,12961.1
+393,South Korea,2090,12550.4
+394,South Korea,2095,14021.3
+395,South Korea,2100,14648.0
+396,Southeast Asia,1975,0.0
+397,Southeast Asia,1990,0.0
+398,Southeast Asia,2005,0.0
+399,Southeast Asia,2010,0.0
+400,Southeast Asia,2015,0.0
+401,Southeast Asia,2020,0.0
+402,Southeast Asia,2025,1294.02
+403,Southeast Asia,2030,6507.05
+404,Southeast Asia,2035,16166.8
+405,Southeast Asia,2040,25781.2
+406,Southeast Asia,2045,36987.5
+407,Southeast Asia,2050,49609.7
+408,Southeast Asia,2055,63683.7
+409,Southeast Asia,2060,79688.8
+410,Southeast Asia,2065,97174.7
+411,Southeast Asia,2070,120449.0
+412,Southeast Asia,2075,134944.0
+413,Southeast Asia,2080,141082.0
+414,Southeast Asia,2085,147347.0
+415,Southeast Asia,2090,153262.0
+416,Southeast Asia,2095,157906.0
+417,Southeast Asia,2100,161632.0
+418,USA,1975,0.0
+419,USA,1990,0.0
+420,USA,2005,0.0
+421,USA,2010,0.0
+422,USA,2015,0.0
+423,USA,2020,888.857
+424,USA,2025,2935.16
+425,USA,2030,15640.4
+426,USA,2035,47085.5
+427,USA,2040,66122.0
+428,USA,2045,84827.9
+429,USA,2050,110426.0
+430,USA,2055,137045.0
+431,USA,2060,171099.0
+432,USA,2065,229546.0
+433,USA,2070,328150.0
+434,USA,2075,452529.0
+435,USA,2080,577270.0
+436,USA,2085,718521.0
+437,USA,2090,861419.0
+438,USA,2095,994175.0
+439,USA,2100,1124850.0

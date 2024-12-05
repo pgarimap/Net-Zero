@@ -1,0 +1,481 @@
+,Year,region,mode,technology,value
+0,2005,Africa_Western,Domestic Aviation,Liquids,0.0276068
+1,2005,Africa_Western,International Aviation,Liquids,0.0343589
+2,2005,Brazil,Domestic Aviation,Liquids,0.0696752
+3,2005,Brazil,International Aviation,Liquids,0.0856171
+4,2005,China,Domestic Aviation,Liquids,0.326841
+5,2005,China,International Aviation,Liquids,0.291787
+6,2005,India,Domestic Aviation,Liquids,0.0734839
+7,2005,India,International Aviation,Liquids,0.0734782
+8,2005,South Asia,Domestic Aviation,Liquids,0.0050065000000000005
+9,2005,South Asia,International Aviation,Liquids,0.0805564
+10,2010,Africa_Western,Domestic Aviation,Liquids,0.0380677
+11,2010,Africa_Western,International Aviation,Liquids,0.0473783
+12,2010,Brazil,Domestic Aviation,Liquids,0.0974514
+13,2010,Brazil,International Aviation,Liquids,0.119749
+14,2010,China,Domestic Aviation,Liquids,0.54237
+15,2010,China,International Aviation,Liquids,0.376881
+16,2010,India,Domestic Aviation,Liquids,0.113229
+17,2010,India,International Aviation,Liquids,0.113221
+18,2010,South Asia,Domestic Aviation,Liquids,0.0044462
+19,2010,South Asia,International Aviation,Liquids,0.0715432
+20,2015,Africa_Western,Domestic Aviation,Liquids,0.0363003
+21,2015,Africa_Western,International Aviation,Liquids,0.0451786
+22,2015,Brazil,Domestic Aviation,Liquids,0.114372
+23,2015,Brazil,International Aviation,Liquids,0.140541
+24,2015,China,Domestic Aviation,Liquids,0.843286
+25,2015,China,International Aviation,Liquids,0.505212
+26,2015,India,Domestic Aviation,Liquids,0.139621
+27,2015,India,International Aviation,Liquids,0.139611
+28,2015,South Asia,Domestic Aviation,Liquids,0.004999
+29,2015,South Asia,International Aviation,Liquids,0.0804369
+30,2020,Africa_Western,Domestic Aviation,Liquids,0.0506994
+31,2020,Africa_Western,International Aviation,Liquids,0.0596258
+32,2020,Brazil,Domestic Aviation,Liquids,0.123907
+33,2020,Brazil,International Aviation,Liquids,0.159124
+34,2020,China,Domestic Aviation,Liquids,1.29687
+35,2020,China,International Aviation,Liquids,0.711187
+36,2020,India,Domestic Aviation,Liquids,0.203677
+37,2020,India,International Aviation,Liquids,0.188786
+38,2020,South Asia,Domestic Aviation,Liquids,0.006422590000000001
+39,2020,South Asia,International Aviation,Liquids,0.101784
+40,2025,Africa_Western,Domestic Aviation,Liquids,0.0736873
+41,2025,Africa_Western,International Aviation,Liquids,0.0761146
+42,2025,Brazil,Domestic Aviation,Liquids,0.143386
+43,2025,Brazil,International Aviation,Liquids,0.169454
+44,2025,China,Domestic Aviation,Liquids,1.73516
+45,2025,China,International Aviation,Liquids,0.849434
+46,2025,India,Domestic Aviation,Liquids,0.291937
+47,2025,India,International Aviation,Liquids,0.235167
+48,2025,South Asia,Domestic Aviation,Liquids,0.00837115
+49,2025,South Asia,International Aviation,Liquids,0.12215140000000001
+50,2030,Africa_Western,Domestic Aviation,Liquids,0.10901
+51,2030,Africa_Western,International Aviation,Liquids,0.100737
+52,2030,Brazil,Domestic Aviation,Liquids,0.160583
+53,2030,Brazil,International Aviation,Liquids,0.180943
+54,2030,China,Domestic Aviation,Liquids,2.1747
+55,2030,China,International Aviation,Liquids,0.982188
+56,2030,India,Domestic Aviation,Liquids,0.405274
+57,2030,India,International Aviation,Liquids,0.293292
+58,2030,South Asia,Domestic Aviation,Liquids,0.01108196
+59,2030,South Asia,International Aviation,Liquids,0.1514258
+60,2035,Africa_Western,Domestic Aviation,BEV,0.000238974
+61,2035,Africa_Western,Domestic Aviation,Hydrogen,0.000135623
+62,2035,Africa_Western,Domestic Aviation,Liquids,0.156415
+63,2035,Africa_Western,International Aviation,BEV,1.76157e-08
+64,2035,Africa_Western,International Aviation,Hydrogen,3.3001e-08
+65,2035,Africa_Western,International Aviation,Liquids,0.134081
+66,2035,Brazil,Domestic Aviation,BEV,0.000317834
+67,2035,Brazil,Domestic Aviation,Hydrogen,0.000161688
+68,2035,Brazil,Domestic Aviation,Liquids,0.171888
+69,2035,Brazil,International Aviation,BEV,3.22319e-08
+70,2035,Brazil,International Aviation,Hydrogen,5.53702e-08
+71,2035,Brazil,International Aviation,Liquids,0.192683
+72,2035,China,Domestic Aviation,BEV,0.00530019
+73,2035,China,Domestic Aviation,Hydrogen,0.00231166
+74,2035,China,Domestic Aviation,Liquids,2.4847
+75,2035,China,International Aviation,BEV,2.29919e-07
+76,2035,China,International Aviation,Hydrogen,3.49843e-07
+77,2035,China,International Aviation,Liquids,1.08668
+78,2035,India,Domestic Aviation,BEV,0.000571806
+79,2035,India,Domestic Aviation,Hydrogen,0.000472232
+80,2035,India,Domestic Aviation,Liquids,0.539172
+81,2035,India,International Aviation,BEV,3.86048e-08
+82,2035,India,International Aviation,Hydrogen,1.03005e-07
+83,2035,India,International Aviation,Liquids,0.363393
+84,2035,South Asia,Domestic Aviation,BEV,2.4395079999999998e-05
+85,2035,South Asia,Domestic Aviation,Hydrogen,1.1464980000000001e-05
+86,2035,South Asia,Domestic Aviation,Liquids,0.014500269999999999
+87,2035,South Asia,International Aviation,BEV,2.7716299999999998e-08
+88,2035,South Asia,International Aviation,Hydrogen,4.45645e-08
+89,2035,South Asia,International Aviation,Liquids,0.1903762
+90,2040,Africa_Western,Domestic Aviation,BEV,0.000939112
+91,2040,Africa_Western,Domestic Aviation,Hydrogen,0.000613595
+92,2040,Africa_Western,Domestic Aviation,Liquids,0.231037
+93,2040,Africa_Western,International Aviation,BEV,2.12438e-07
+94,2040,Africa_Western,International Aviation,Hydrogen,8.82972e-07
+95,2040,Africa_Western,International Aviation,Liquids,0.186594
+96,2040,Brazil,Domestic Aviation,BEV,0.000900993
+97,2040,Brazil,Domestic Aviation,Hydrogen,0.000507176
+98,2040,Brazil,Domestic Aviation,Liquids,0.188666
+99,2040,Brazil,International Aviation,BEV,2.98446e-07
+100,2040,Brazil,International Aviation,Hydrogen,1.09058e-06
+101,2040,Brazil,International Aviation,Liquids,0.214022
+102,2040,China,Domestic Aviation,BEV,0.0152098
+103,2040,China,Domestic Aviation,Hydrogen,0.0079482
+104,2040,China,Domestic Aviation,Liquids,2.78634
+105,2040,China,International Aviation,BEV,2.07961e-06
+106,2040,China,International Aviation,Hydrogen,7.15713e-06
+107,2040,China,International Aviation,Liquids,1.20986
+108,2040,India,Domestic Aviation,BEV,0.00221954
+109,2040,India,Domestic Aviation,Hydrogen,0.00196138
+110,2040,India,Domestic Aviation,Liquids,0.722558
+111,2040,India,International Aviation,BEV,4.50847e-07
+112,2040,India,International Aviation,Hydrogen,2.47322e-06
+113,2040,India,International Aviation,Liquids,0.462737
+114,2040,South Asia,Domestic Aviation,BEV,9.35009e-05
+115,2040,South Asia,Domestic Aviation,Hydrogen,4.78475e-05
+116,2040,South Asia,Domestic Aviation,Liquids,0.01960281
+117,2040,South Asia,International Aviation,BEV,3.3258000000000003e-07
+118,2040,South Asia,International Aviation,Hydrogen,1.125706e-06
+119,2040,South Asia,International Aviation,Liquids,0.2499415
+120,2045,Africa_Western,Domestic Aviation,BEV,0.00360945
+121,2045,Africa_Western,Domestic Aviation,Hydrogen,0.00256756
+122,2045,Africa_Western,Domestic Aviation,Liquids,0.327488
+123,2045,Africa_Western,International Aviation,BEV,2.47592e-06
+124,2045,Africa_Western,International Aviation,Hydrogen,1.72946e-05
+125,2045,Africa_Western,International Aviation,Liquids,0.253229
+126,2045,Brazil,Domestic Aviation,BEV,0.00258269
+127,2045,Brazil,Domestic Aviation,Hydrogen,0.00148308
+128,2045,Brazil,Domestic Aviation,Liquids,0.200146
+129,2045,Brazil,International Aviation,BEV,2.7485e-06
+130,2045,Brazil,International Aviation,Hydrogen,1.58568e-05
+131,2045,Brazil,International Aviation,Liquids,0.232805
+132,2045,China,Domestic Aviation,BEV,0.0444642
+133,2045,China,Domestic Aviation,Hydrogen,0.0263232
+134,2045,China,Domestic Aviation,Liquids,2.92776
+135,2045,China,International Aviation,BEV,1.89546e-05
+136,2045,China,International Aviation,Hydrogen,0.000112371
+137,2045,China,International Aviation,Liquids,1.29166
+138,2045,India,Domestic Aviation,BEV,0.00856145
+139,2045,India,Domestic Aviation,Hydrogen,0.00750089
+140,2045,India,Domestic Aviation,Liquids,0.918424
+141,2045,India,International Aviation,BEV,5.16524e-06
+142,2045,India,International Aviation,Hydrogen,4.34882e-05
+143,2045,India,International Aviation,Liquids,0.568535
+144,2045,South Asia,Domestic Aviation,BEV,0.000354473
+145,2045,South Asia,Domestic Aviation,Hydrogen,0.00018836139999999998
+146,2045,South Asia,Domestic Aviation,Liquids,0.025614909999999998
+147,2045,South Asia,International Aviation,BEV,3.87276e-06
+148,2045,South Asia,International Aviation,Hydrogen,2.106979e-05
+149,2045,South Asia,International Aviation,Liquids,0.319879
+150,2050,Africa_Western,Domestic Aviation,BEV,0.012614
+151,2050,Africa_Western,Domestic Aviation,Hydrogen,0.00947286
+152,2050,Africa_Western,Domestic Aviation,Liquids,0.441657
+153,2050,Africa_Western,International Aviation,BEV,2.63387e-05
+154,2050,Africa_Western,International Aviation,Hydrogen,0.000248812
+155,2050,Africa_Western,International Aviation,Liquids,0.335205
+156,2050,Brazil,Domestic Aviation,BEV,0.00680314
+157,2050,Brazil,Domestic Aviation,Hydrogen,0.00415012
+158,2050,Brazil,Domestic Aviation,Liquids,0.203912
+159,2050,Brazil,International Aviation,BEV,2.32641e-05
+160,2050,Brazil,International Aviation,Hydrogen,0.000182071
+161,2050,Brazil,International Aviation,Liquids,0.248566
+162,2050,China,Domestic Aviation,BEV,0.113948
+163,2050,China,Domestic Aviation,Hydrogen,0.074787
+164,2050,China,Domestic Aviation,Liquids,2.90812
+165,2050,China,International Aviation,BEV,0.000152862
+166,2050,China,International Aviation,Hydrogen,0.00127251
+167,2050,China,International Aviation,Liquids,1.33896
+168,2050,India,Domestic Aviation,BEV,0.0289597
+169,2050,India,Domestic Aviation,Hydrogen,0.0246191
+170,2050,India,Domestic Aviation,Liquids,1.10295
+171,2050,India,International Aviation,BEV,5.22923e-05
+172,2050,India,International Aviation,Hydrogen,0.000549911
+173,2050,India,International Aviation,Liquids,0.677099
+174,2050,South Asia,Domestic Aviation,BEV,0.001176583
+175,2050,South Asia,Domestic Aviation,Hydrogen,0.000646583
+176,2050,South Asia,Domestic Aviation,Liquids,0.0322471
+177,2050,South Asia,International Aviation,BEV,3.9456500000000004e-05
+178,2050,South Asia,International Aviation,Hydrogen,0.00028448199999999996
+179,2050,South Asia,International Aviation,Liquids,0.400593
+180,2055,Africa_Western,Domestic Aviation,BEV,0.0339415
+181,2055,Africa_Western,Domestic Aviation,Hydrogen,0.0227718
+182,2055,Africa_Western,Domestic Aviation,Liquids,0.55211
+183,2055,Africa_Western,International Aviation,BEV,7.13708e-05
+184,2055,Africa_Western,International Aviation,Hydrogen,0.000609636
+185,2055,Africa_Western,International Aviation,Liquids,0.429092
+186,2055,Brazil,Domestic Aviation,BEV,0.0142347
+187,2055,Brazil,Domestic Aviation,Hydrogen,0.0084454
+188,2055,Brazil,Domestic Aviation,Liquids,0.198536
+189,2055,Brazil,International Aviation,BEV,5.18047e-05
+190,2055,Brazil,International Aviation,Hydrogen,0.000395477
+191,2055,Brazil,International Aviation,Liquids,0.261811
+192,2055,China,Domestic Aviation,BEV,0.226343
+193,2055,China,Domestic Aviation,Hydrogen,0.142486
+194,2055,China,Domestic Aviation,Liquids,2.72791
+195,2055,China,International Aviation,BEV,0.000322414
+196,2055,China,International Aviation,Hydrogen,0.00258552
+197,2055,China,International Aviation,Liquids,1.35323
+198,2055,India,Domestic Aviation,BEV,0.073532
+199,2055,India,Domestic Aviation,Hydrogen,0.0518034
+200,2055,India,Domestic Aviation,Liquids,1.23488
+201,2055,India,International Aviation,BEV,0.000133728
+202,2055,India,International Aviation,Hydrogen,0.00118866
+203,2055,India,International Aviation,Liquids,0.780442
+204,2055,South Asia,Domestic Aviation,BEV,0.002985613
+205,2055,South Asia,Domestic Aviation,Hydrogen,0.001474094
+206,2055,South Asia,Domestic Aviation,Liquids,0.0381517
+207,2055,South Asia,International Aviation,BEV,0.0001011183
+208,2055,South Asia,International Aviation,Hydrogen,0.000662479
+209,2055,South Asia,International Aviation,Liquids,0.48645700000000003
+210,2060,Africa_Western,Domestic Aviation,BEV,0.0808294
+211,2060,Africa_Western,Domestic Aviation,Hydrogen,0.0485877
+212,2060,Africa_Western,Domestic Aviation,Liquids,0.622985
+213,2060,Africa_Western,International Aviation,BEV,0.000181201
+214,2060,Africa_Western,International Aviation,Hydrogen,0.00140314
+215,2060,Africa_Western,International Aviation,Liquids,0.528256
+216,2060,Brazil,Domestic Aviation,BEV,0.0262759
+217,2060,Brazil,Domestic Aviation,Hydrogen,0.0165885
+218,2060,Brazil,Domestic Aviation,Liquids,0.180236
+219,2060,Brazil,International Aviation,BEV,0.00010706
+220,2060,Brazil,International Aviation,Hydrogen,0.000863979
+221,2060,Brazil,International Aviation,Liquids,0.271184
+222,2060,China,Domestic Aviation,BEV,0.403566
+223,2060,China,Domestic Aviation,Hydrogen,0.253015
+224,2060,China,Domestic Aviation,Liquids,2.34486
+225,2060,China,International Aviation,BEV,0.00064709
+226,2060,China,International Aviation,Hydrogen,0.00517024
+227,2060,China,International Aviation,Liquids,1.33679
+228,2060,India,Domestic Aviation,BEV,0.162392
+229,2060,India,Domestic Aviation,Hydrogen,0.0969002
+230,2060,India,Domestic Aviation,Liquids,1.25553
+231,2060,India,International Aviation,BEV,0.000315078
+232,2060,India,International Aviation,Hydrogen,0.00241386
+233,2060,India,International Aviation,Liquids,0.868633
+234,2060,South Asia,Domestic Aviation,BEV,0.00666849
+235,2060,South Asia,Domestic Aviation,Hydrogen,0.00304266
+236,2060,South Asia,Domestic Aviation,Liquids,0.040595099999999995
+237,2060,South Asia,International Aviation,BEV,0.00024264000000000002
+238,2060,South Asia,International Aviation,Hydrogen,0.001481221
+239,2060,South Asia,International Aviation,Liquids,0.568768
+240,2065,Africa_Western,Domestic Aviation,BEV,0.165723
+241,2065,Africa_Western,Domestic Aviation,Hydrogen,0.0903997
+242,2065,Africa_Western,Domestic Aviation,Liquids,0.63089
+243,2065,Africa_Western,International Aviation,BEV,0.000421367
+244,2065,Africa_Western,International Aviation,Hydrogen,0.00299181
+245,2065,Africa_Western,International Aviation,Liquids,0.625563
+246,2065,Brazil,Domestic Aviation,BEV,0.0403396
+247,2065,Brazil,Domestic Aviation,Hydrogen,0.028593
+248,2065,Brazil,Domestic Aviation,Liquids,0.154391
+249,2065,Brazil,International Aviation,BEV,0.000192385
+250,2065,Brazil,International Aviation,Hydrogen,0.0017219
+251,2065,Brazil,International Aviation,Liquids,0.276658
+252,2065,China,Domestic Aviation,BEV,0.612438
+253,2065,China,Domestic Aviation,Hydrogen,0.389954
+254,2065,China,Domestic Aviation,Liquids,1.86804
+255,2065,China,International Aviation,BEV,0.00116693
+256,2065,China,International Aviation,Hydrogen,0.00945389
+257,2065,China,International Aviation,Liquids,1.29551
+258,2065,India,Domestic Aviation,BEV,0.301711
+259,2065,India,Domestic Aviation,Hydrogen,0.155129
+260,2065,India,Domestic Aviation,Liquids,1.17383
+261,2065,India,International Aviation,BEV,0.000657469
+262,2065,India,International Aviation,Hydrogen,0.00440867
+263,2065,India,International Aviation,Liquids,0.93808
+264,2065,South Asia,Domestic Aviation,BEV,0.012739879999999999
+265,2065,South Asia,Domestic Aviation,Hydrogen,0.0053973400000000005
+266,2065,South Asia,Domestic Aviation,Liquids,0.0390827
+267,2065,South Asia,International Aviation,BEV,0.000528631
+268,2065,South Asia,International Aviation,Hydrogen,0.0030195
+269,2065,South Asia,International Aviation,Liquids,0.64232
+270,2070,Africa_Western,Domestic Aviation,BEV,0.296151
+271,2070,Africa_Western,Domestic Aviation,Hydrogen,0.149548
+272,2070,Africa_Western,Domestic Aviation,Liquids,0.562602
+273,2070,Africa_Western,International Aviation,BEV,0.000917043
+274,2070,Africa_Western,International Aviation,Hydrogen,0.00607754
+275,2070,Africa_Western,International Aviation,Liquids,0.709094
+276,2070,Brazil,Domestic Aviation,BEV,0.0531798
+277,2070,Brazil,Domestic Aviation,Hydrogen,0.0400314
+278,2070,Brazil,Domestic Aviation,Liquids,0.128944
+279,2070,Brazil,International Aviation,BEV,0.000299797
+280,2070,Brazil,International Aviation,Hydrogen,0.00283155
+281,2070,Brazil,International Aviation,Liquids,0.277842
+282,2070,China,Domestic Aviation,BEV,0.803167
+283,2070,China,Domestic Aviation,Hydrogen,0.509958
+284,2070,China,Domestic Aviation,Liquids,1.41711
+285,2070,China,International Aviation,BEV,0.00186776
+286,2070,China,International Aviation,Hydrogen,0.0150935
+287,2070,China,International Aviation,Liquids,1.23147
+288,2070,India,Domestic Aviation,BEV,0.472065
+289,2070,India,Domestic Aviation,Hydrogen,0.216272
+290,2070,India,Domestic Aviation,Liquids,1.03718
+291,2070,India,International Aviation,BEV,0.00118813
+292,2070,India,International Aviation,Hydrogen,0.00718556
+293,2070,India,International Aviation,Liquids,0.985598
+294,2070,South Asia,Domestic Aviation,BEV,0.02130264
+295,2070,South Asia,Domestic Aviation,Hydrogen,0.00850509
+296,2070,South Asia,Domestic Aviation,Liquids,0.0336717
+297,2070,South Asia,International Aviation,BEV,0.001070839
+298,2070,South Asia,International Aviation,Hydrogen,0.005798879999999999
+299,2070,South Asia,International Aviation,Liquids,0.697187
+300,2075,Africa_Western,Domestic Aviation,BEV,0.446558
+301,2075,Africa_Western,Domestic Aviation,Hydrogen,0.209475
+302,2075,Africa_Western,Domestic Aviation,Liquids,0.494872
+303,2075,Africa_Western,International Aviation,BEV,0.00168495
+304,2075,Africa_Western,International Aviation,Hydrogen,0.0104552
+305,2075,Africa_Western,International Aviation,Liquids,0.789442
+306,2075,Brazil,Domestic Aviation,BEV,0.0638871
+307,2075,Brazil,Domestic Aviation,Hydrogen,0.0487696
+308,2075,Brazil,Domestic Aviation,Liquids,0.107435
+309,2075,Brazil,International Aviation,BEV,0.000421032
+310,2075,Brazil,International Aviation,Hydrogen,0.00402671
+311,2075,Brazil,International Aviation,Liquids,0.27589
+312,2075,China,Domestic Aviation,BEV,0.937705
+313,2075,China,Domestic Aviation,Hydrogen,0.580139
+314,2075,China,Domestic Aviation,Liquids,1.08166
+315,2075,China,International Aviation,BEV,0.00262128
+316,2075,China,International Aviation,Hydrogen,0.0206963
+317,2075,China,International Aviation,Liquids,1.15869
+318,2075,India,Domestic Aviation,BEV,0.637778
+319,2075,India,Domestic Aviation,Hydrogen,0.264533
+320,2075,India,Domestic Aviation,Liquids,0.923492
+321,2075,India,International Aviation,BEV,0.00182259
+322,2075,India,International Aviation,Hydrogen,0.0100841
+323,2075,India,International Aviation,Liquids,1.02115
+324,2075,South Asia,Domestic Aviation,BEV,0.0305299
+325,2075,South Asia,Domestic Aviation,Hydrogen,0.011665060000000001
+326,2075,South Asia,Domestic Aviation,Liquids,0.0290773
+327,2075,South Asia,International Aviation,BEV,0.001839428
+328,2075,South Asia,International Aviation,Hydrogen,0.00956712
+329,2075,South Asia,International Aviation,Liquids,0.7466349999999999
+330,2080,Africa_Western,Domestic Aviation,BEV,0.598718
+331,2080,Africa_Western,Domestic Aviation,Hydrogen,0.262806
+332,2080,Africa_Western,Domestic Aviation,Liquids,0.443802
+333,2080,Africa_Western,International Aviation,BEV,0.00267934
+334,2080,Africa_Western,International Aviation,Hydrogen,0.0156682
+335,2080,Africa_Western,International Aviation,Liquids,0.866879
+336,2080,Brazil,Domestic Aviation,BEV,0.0711139
+337,2080,Brazil,Domestic Aviation,Hydrogen,0.0572359
+338,2080,Brazil,Domestic Aviation,Liquids,0.089082
+339,2080,Brazil,International Aviation,BEV,0.000544114
+340,2080,Brazil,International Aviation,Hydrogen,0.00545599
+341,2080,Brazil,International Aviation,Liquids,0.271002
+342,2080,China,Domestic Aviation,BEV,1.01169
+343,2080,China,Domestic Aviation,Hydrogen,0.624271
+344,2080,China,Domestic Aviation,Liquids,0.845085
+345,2080,China,International Aviation,BEV,0.00331441
+346,2080,China,International Aviation,Hydrogen,0.0261076
+347,2080,China,International Aviation,Liquids,1.08541
+348,2080,India,Domestic Aviation,BEV,0.789721
+349,2080,India,Domestic Aviation,Hydrogen,0.300646
+350,2080,India,Domestic Aviation,Liquids,0.827798
+351,2080,India,International Aviation,BEV,0.00251491
+352,2080,India,International Aviation,Hydrogen,0.0128871
+353,2080,India,International Aviation,Liquids,1.04379
+354,2080,South Asia,Domestic Aviation,BEV,0.0395068
+355,2080,South Asia,Domestic Aviation,Hydrogen,0.01473917
+356,2080,South Asia,Domestic Aviation,Liquids,0.02556754
+357,2080,South Asia,International Aviation,BEV,0.00277965
+358,2080,South Asia,International Aviation,Hydrogen,0.01413334
+359,2080,South Asia,International Aviation,Liquids,0.7897160000000001
+360,2085,Africa_Western,Domestic Aviation,BEV,0.756215
+361,2085,Africa_Western,Domestic Aviation,Hydrogen,0.316305
+362,2085,Africa_Western,Domestic Aviation,Liquids,0.381662
+363,2085,Africa_Western,International Aviation,BEV,0.00408004
+364,2085,Africa_Western,International Aviation,Hydrogen,0.0228529
+365,2085,Africa_Western,International Aviation,Liquids,0.93099
+366,2085,Brazil,Domestic Aviation,BEV,0.0760969
+367,2085,Brazil,Domestic Aviation,Hydrogen,0.0651218
+368,2085,Brazil,Domestic Aviation,Liquids,0.0722445
+369,2085,Brazil,International Aviation,BEV,0.000680594
+370,2085,Brazil,International Aviation,Hydrogen,0.00720938
+371,2085,Brazil,International Aviation,Liquids,0.263015
+372,2085,China,Domestic Aviation,BEV,1.04722
+373,2085,China,Domestic Aviation,Hydrogen,0.648764
+374,2085,China,Domestic Aviation,Liquids,0.653569
+375,2085,China,International Aviation,BEV,0.00401714
+376,2085,China,International Aviation,Hydrogen,0.0317556
+377,2085,China,International Aviation,Liquids,1.0074
+378,2085,India,Domestic Aviation,BEV,0.929204
+379,2085,India,Domestic Aviation,Hydrogen,0.330556
+380,2085,India,Domestic Aviation,Liquids,0.726053
+381,2085,India,International Aviation,BEV,0.00331119
+382,2085,India,International Aviation,Hydrogen,0.0159684
+383,2085,India,International Aviation,Liquids,1.05046
+384,2085,South Asia,Domestic Aviation,BEV,0.0483318
+385,2085,South Asia,Domestic Aviation,Hydrogen,0.0178513
+386,2085,South Asia,Domestic Aviation,Liquids,0.02176346
+387,2085,South Asia,International Aviation,BEV,0.00401342
+388,2085,South Asia,International Aviation,Hydrogen,0.020200290000000003
+389,2085,South Asia,International Aviation,Liquids,0.819372
+390,2090,Africa_Western,Domestic Aviation,BEV,0.912395
+391,2090,Africa_Western,Domestic Aviation,Hydrogen,0.369547
+392,2090,Africa_Western,Domestic Aviation,Liquids,0.31294
+393,2090,Africa_Western,International Aviation,BEV,0.00607748
+394,2090,Africa_Western,International Aviation,Hydrogen,0.0330765
+395,2090,Africa_Western,International Aviation,Liquids,0.979203
+396,2090,Brazil,Domestic Aviation,BEV,0.0787971
+397,2090,Brazil,Domestic Aviation,Hydrogen,0.0736026
+398,2090,Brazil,Domestic Aviation,Liquids,0.0560762
+399,2090,Brazil,International Aviation,BEV,0.00084384
+400,2090,Brazil,International Aviation,Hydrogen,0.00966652
+401,2090,Brazil,International Aviation,Liquids,0.251266
+402,2090,China,Domestic Aviation,BEV,1.05168
+403,2090,China,Domestic Aviation,Hydrogen,0.669413
+404,2090,China,Domestic Aviation,Liquids,0.497763
+405,2090,China,International Aviation,BEV,0.00475116
+406,2090,China,International Aviation,Hydrogen,0.0384805
+407,2090,China,International Aviation,Liquids,0.927286
+408,2090,India,Domestic Aviation,BEV,1.05914
+409,2090,India,Domestic Aviation,Hydrogen,0.35783
+410,2090,India,Domestic Aviation,Liquids,0.616269
+411,2090,India,International Aviation,BEV,0.00428427
+412,2090,India,International Aviation,Hydrogen,0.0197287
+413,2090,India,International Aviation,Liquids,1.04089
+414,2090,South Asia,Domestic Aviation,BEV,0.057065599999999994
+415,2090,South Asia,Domestic Aviation,Hydrogen,0.02098933
+416,2090,South Asia,Domestic Aviation,Liquids,0.01774504
+417,2090,South Asia,International Aviation,BEV,0.0057084
+418,2090,South Asia,International Aviation,Hydrogen,0.0285967
+419,2090,South Asia,International Aviation,Liquids,0.834183
+420,2095,Africa_Western,Domestic Aviation,BEV,1.0612
+421,2095,Africa_Western,Domestic Aviation,Hydrogen,0.422238
+422,2095,Africa_Western,Domestic Aviation,Liquids,0.241784
+423,2095,Africa_Western,International Aviation,BEV,0.00902752
+424,2095,Africa_Western,International Aviation,Hydrogen,0.0483574
+425,2095,Africa_Western,International Aviation,Liquids,1.00787
+426,2095,Brazil,Domestic Aviation,BEV,0.0786919
+427,2095,Brazil,Domestic Aviation,Hydrogen,0.0838624
+428,2095,Brazil,Domestic Aviation,Liquids,0.0408141
+429,2095,Brazil,International Aviation,BEV,0.00105101
+430,2095,Brazil,International Aviation,Hydrogen,0.0135461
+431,2095,Brazil,International Aviation,Liquids,0.235494
+432,2095,China,Domestic Aviation,BEV,1.03195
+433,2095,China,Domestic Aviation,Hydrogen,0.696384
+434,2095,China,Domestic Aviation,Liquids,0.369385
+435,2095,China,International Aviation,BEV,0.00556491
+436,2095,China,International Aviation,Hydrogen,0.0474933
+437,2095,China,International Aviation,Liquids,0.844416
+438,2095,India,Domestic Aviation,BEV,1.1879
+439,2095,India,Domestic Aviation,Hydrogen,0.387161
+440,2095,India,Domestic Aviation,Liquids,0.49195
+441,2095,India,International Aviation,BEV,0.0056573
+442,2095,India,International Aviation,Hydrogen,0.0252269
+443,2095,India,International Aviation,Liquids,1.01238
+444,2095,South Asia,Domestic Aviation,BEV,0.0656845
+445,2095,South Asia,Domestic Aviation,Hydrogen,0.02421119
+446,2095,South Asia,Domestic Aviation,Liquids,0.01372318
+447,2095,South Asia,International Aviation,BEV,0.00814662
+448,2095,South Asia,International Aviation,Hydrogen,0.040855699999999995
+449,2095,South Asia,International Aviation,Liquids,0.832679
+450,2100,Africa_Western,Domestic Aviation,BEV,1.19494
+451,2100,Africa_Western,Domestic Aviation,Hydrogen,0.474556
+452,2100,Africa_Western,Domestic Aviation,Liquids,0.17301
+453,2100,Africa_Western,International Aviation,BEV,0.0135933
+454,2100,Africa_Western,International Aviation,Hydrogen,0.0726921
+455,2100,Africa_Western,International Aviation,Liquids,1.0108
+456,2100,Brazil,Domestic Aviation,BEV,0.0774313
+457,2100,Brazil,Domestic Aviation,Hydrogen,0.0932762
+458,2100,Brazil,Domestic Aviation,Liquids,0.0274454
+459,2100,Brazil,International Aviation,BEV,0.00135323
+460,2100,Brazil,International Aviation,Hydrogen,0.019461
+461,2100,Brazil,International Aviation,Liquids,0.215418
+462,2100,China,Domestic Aviation,BEV,1.01175
+463,2100,China,Domestic Aviation,Hydrogen,0.719492
+464,2100,China,Domestic Aviation,Liquids,0.257107
+465,2100,China,International Aviation,BEV,0.00676298
+466,2100,China,International Aviation,Hydrogen,0.0604931
+467,2100,China,International Aviation,Liquids,0.753952
+468,2100,India,Domestic Aviation,BEV,1.31031
+469,2100,India,Domestic Aviation,Hydrogen,0.419045
+470,2100,India,Domestic Aviation,Liquids,0.368017
+471,2100,India,International Aviation,BEV,0.00765802
+472,2100,India,International Aviation,Hydrogen,0.0335745
+473,2100,India,International Aviation,Liquids,0.966738
+474,2100,South Asia,Domestic Aviation,BEV,0.07393620000000001
+475,2100,South Asia,Domestic Aviation,Hydrogen,0.0275587
+476,2100,South Asia,Domestic Aviation,Liquids,0.00996674
+477,2100,South Asia,International Aviation,BEV,0.01177316
+478,2100,South Asia,International Aviation,Hydrogen,0.059587600000000004
+479,2100,South Asia,International Aviation,Liquids,0.811749

@@ -1,0 +1,20 @@
+sector,2030,2050,2085
+N fertilizer,0.8,12.3,29.8
+trn_shipping_intl,0.0,0.9,27.6
+process heat cement,0.1,3.6,27.1
+resid heating,0.3,2.1,24.1
+trn_pass,0.0,2.1,21.5
+trn_freight,2.8,10.2,20.7
+trn_pass_road,2.0,9.9,11.7
+agricultural energy use,1.4,5.6,8.2
+construction energy use,1.3,5.5,8.1
+comm heating,0.2,1.1,7.6
+trn_freight_road,0.3,3.0,6.2
+iron and steel,0.4,1.3,6.2
+mining energy use,0.6,2.5,3.8
+trn_pass_road_LDV_4W,0.9,2.4,3.1
+trn_aviation_intl,0.0,0.1,2.3
+chemical energy use,0.0,0.0,1.7
+other industrial energy use,0.0,0.4,1.5
+resid others,0.0,0.2,0.7
+comm others,0.0,0.1,0.1

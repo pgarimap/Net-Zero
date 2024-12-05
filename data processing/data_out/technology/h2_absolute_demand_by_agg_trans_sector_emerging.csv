@@ -1,0 +1,14 @@
+sector,2030,2050,2085
+N fertilizer,0.76,12.16,28.68
+resid heating,0.31,2.19,25.37
+process heat cement,0.04,2.65,24.15
+transport,0.71,3.4,10.5
+agricultural energy use,1.39,5.64,8.36
+construction energy use,1.26,5.46,7.94
+comm heating,0.22,1.07,7.66
+iron and steel,0.37,1.29,6.47
+mining energy use,0.59,2.53,3.77
+chemical energy use,0.0,0.0,1.17
+other industrial energy use,0.03,0.26,0.97
+resid others,0.07,0.26,0.7
+comm others,0.02,0.07,0.14

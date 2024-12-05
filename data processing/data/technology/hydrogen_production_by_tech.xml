@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+
+    <aQuery>
+        <all-regions/>
+        <supplyDemandQuery title="hydrogen production by tech">
+                    <axis1 name="technology">technology</axis1>
+                    <axis2 name="Year">physical-output[@vintage]</axis2>
+                    <xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (@name='H2 central production' or @name='H2 wholesale dispensing' or @name='H2 industrial')]/
+                       *[@type='subsector' and not (@name='H2 delivery')]/*[@type='technology']/*[@type='output' (:collapse:)]/
+                       physical-output/node()</xPath>
+                    <comments/>
+                </supplyDemandQuery>
+
+    </aQuery>
+
+</queries>

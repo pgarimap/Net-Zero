@@ -1,0 +1,20 @@
+# bar chart
+
+#axes.spines.left:   True  # display axis spines
+#axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+
+xtick.major.size:   0
+
+xtick.direction: out
+ytick.direction: out
+
+legend.columnspacing:1
+
+legend.labelspacing: 1.5
+
+figure.subplot.left:   0.1   # the left side of the subplots of the figure
+figure.subplot.right:  0.9    # the right side of the subplots of the figure
+figure.subplot.bottom: 0.11   # the bottom of the subplots of the figure
+figure.subplot.top:    0.9   # the top of the subplots of the figure

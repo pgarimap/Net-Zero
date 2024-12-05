@@ -1,0 +1,343 @@
+,region,Year,sector,value
+0,Africa_Western,2030,agricultural energy use,0.0002190283
+1,Africa_Western,2030,aluminum,0.05805887
+2,Africa_Western,2030,cement,0.019679965
+3,Africa_Western,2030,chemical energy use,0.002343538
+4,Africa_Western,2030,comm cooling,0.0466345
+5,Africa_Western,2030,comm others,0.20254
+6,Africa_Western,2030,construction energy use,0.0010338631
+7,Africa_Western,2030,desalinated water,8.74001e-05
+8,Africa_Western,2030,industrial wastewater treatment,0.00109803
+9,Africa_Western,2030,industrial water abstraction,0.000823859
+10,Africa_Western,2030,industrial water treatment,0.00112802
+11,Africa_Western,2030,iron and steel,0.0079372691887
+12,Africa_Western,2030,irrigation water abstraction,0.0035931
+13,Africa_Western,2030,mining energy use,0.0038618767
+14,Africa_Western,2030,municipal wastewater treatment,0.00761711
+15,Africa_Western,2030,municipal water abstraction,0.00492974
+16,Africa_Western,2030,municipal water distribution,0.0139425
+17,Africa_Western,2030,municipal water treatment,0.0132525
+18,Africa_Western,2030,other industrial energy use,0.2133456
+19,Africa_Western,2030,resid cooling,0.231475
+20,Africa_Western,2030,resid others,0.301469
+21,Africa_Western,2030,transport,0.021284994538115
+22,Africa_Western,2050,agricultural energy use,0.002598894
+23,Africa_Western,2050,aluminum,0.3169829263
+24,Africa_Western,2050,cement,0.0691583955
+25,Africa_Western,2050,chemical energy use,0.013887580100000001
+26,Africa_Western,2050,comm cooling,0.255188
+27,Africa_Western,2050,comm others,2.06769
+28,Africa_Western,2050,construction energy use,0.0018027408500000002
+29,Africa_Western,2050,desalinated water,0.000178453
+30,Africa_Western,2050,industrial wastewater treatment,0.00537094
+31,Africa_Western,2050,industrial water abstraction,0.00182362
+32,Africa_Western,2050,industrial water treatment,0.00249688
+33,Africa_Western,2050,iron and steel,0.040246026604
+34,Africa_Western,2050,irrigation water abstraction,0.00494306
+35,Africa_Western,2050,mining energy use,0.00555962234
+36,Africa_Western,2050,municipal wastewater treatment,0.0292042
+37,Africa_Western,2050,municipal water abstraction,0.00864733
+38,Africa_Western,2050,municipal water distribution,0.0244593
+39,Africa_Western,2050,municipal water treatment,0.0232464
+40,Africa_Western,2050,other industrial energy use,1.8619961369999998
+41,Africa_Western,2050,resid cooling,0.939638
+42,Africa_Western,2050,resid others,3.21881
+43,Africa_Western,2050,transport,0.273995215739
+44,Africa_Western,2085,agricultural energy use,0.00504229
+45,Africa_Western,2085,aluminum,0.57774578
+46,Africa_Western,2085,cement,0.1014791083
+47,Africa_Western,2085,chemical energy use,0.071750892118167
+48,Africa_Western,2085,comm cooling,1.20452
+49,Africa_Western,2085,comm others,8.73586
+50,Africa_Western,2085,construction energy use,0.0026175410999999997
+51,Africa_Western,2085,desalinated water,0.000287319
+52,Africa_Western,2085,industrial wastewater treatment,0.0137665
+53,Africa_Western,2085,industrial water abstraction,0.00298788
+54,Africa_Western,2085,industrial water treatment,0.00409097
+55,Africa_Western,2085,iron and steel,0.07988409876
+56,Africa_Western,2085,irrigation water abstraction,0.00605542
+57,Africa_Western,2085,mining energy use,0.0058584704
+58,Africa_Western,2085,municipal wastewater treatment,0.0739719
+59,Africa_Western,2085,municipal water abstraction,0.0140466
+60,Africa_Western,2085,municipal water distribution,0.0397272
+61,Africa_Western,2085,municipal water treatment,0.0377612
+62,Africa_Western,2085,other industrial energy use,10.13966171
+63,Africa_Western,2085,resid cooling,2.27002
+64,Africa_Western,2085,resid others,7.49279
+65,Africa_Western,2085,transport,1.9877091896999997
+66,Brazil,2030,agricultural energy use,0.10509893
+67,Brazil,2030,aluminum,0.08821475
+68,Brazil,2030,cement,0.029253582999999996
+69,Brazil,2030,chemical energy use,0.12908579999999997
+70,Brazil,2030,comm cooling,0.215189
+71,Brazil,2030,comm heating,0.0172058
+72,Brazil,2030,comm others,0.609223
+73,Brazil,2030,construction energy use,5.04191e-05
+74,Brazil,2030,desalinated water,0.000603914
+75,Brazil,2030,industrial wastewater treatment,0.0197365
+76,Brazil,2030,industrial water abstraction,0.00479111
+77,Brazil,2030,industrial water treatment,0.00892311
+78,Brazil,2030,iron and steel,0.16131161281
+79,Brazil,2030,irrigation water abstraction,0.00606435
+80,Brazil,2030,mining energy use,0.0671454096
+81,Brazil,2030,municipal wastewater treatment,0.0214049
+82,Brazil,2030,municipal water abstraction,0.00671758
+83,Brazil,2030,municipal water distribution,0.0174388
+84,Brazil,2030,municipal water treatment,0.0165639
+85,Brazil,2030,other industrial energy use,0.6652472
+86,Brazil,2030,resid cooling,0.165767
+87,Brazil,2030,resid heating,0.0158438
+88,Brazil,2030,resid others,0.737847
+89,Brazil,2030,transport,0.1761649720274
+90,Brazil,2050,agricultural energy use,0.18386848
+91,Brazil,2050,aluminum,0.091557375
+92,Brazil,2050,cement,0.035259922900000004
+93,Brazil,2050,chemical energy use,0.19489667600000002
+94,Brazil,2050,comm cooling,0.310836
+95,Brazil,2050,comm heating,0.029353
+96,Brazil,2050,comm others,1.24579
+97,Brazil,2050,construction energy use,0.0010130826
+98,Brazil,2050,desalinated water,0.000755815
+99,Brazil,2050,industrial wastewater treatment,0.0317597
+100,Brazil,2050,industrial water abstraction,0.00557847
+101,Brazil,2050,industrial water treatment,0.0103895
+102,Brazil,2050,iron and steel,0.2397153019
+103,Brazil,2050,irrigation water abstraction,0.00689724
+104,Brazil,2050,mining energy use,0.08771150600000002
+105,Brazil,2050,municipal wastewater treatment,0.0328545
+106,Brazil,2050,municipal water abstraction,0.00748521
+107,Brazil,2050,municipal water distribution,0.0194366
+108,Brazil,2050,municipal water treatment,0.0184567
+109,Brazil,2050,other industrial energy use,1.71821146
+110,Brazil,2050,resid cooling,0.244951
+111,Brazil,2050,resid heating,0.0291525
+112,Brazil,2050,resid others,1.32432
+113,Brazil,2050,transport,0.45135385392
+114,Brazil,2085,agricultural energy use,0.21371102999999997
+115,Brazil,2085,aluminum,0.053496251
+116,Brazil,2085,cement,0.02787073221
+117,Brazil,2085,chemical energy use,0.1639611949283
+118,Brazil,2085,comm cooling,0.229486
+119,Brazil,2085,comm heating,0.028127
+120,Brazil,2085,comm others,1.71043
+121,Brazil,2085,construction energy use,0.0021591830000000003
+122,Brazil,2085,desalinated water,0.000536857
+123,Brazil,2085,industrial wastewater treatment,0.0347687
+124,Brazil,2085,industrial water abstraction,0.00531904
+125,Brazil,2085,industrial water treatment,0.00990634
+126,Brazil,2085,iron and steel,0.17841562369999997
+127,Brazil,2085,irrigation water abstraction,0.00703756
+128,Brazil,2085,mining energy use,0.07651902199999999
+129,Brazil,2085,municipal wastewater treatment,0.0324236
+130,Brazil,2085,municipal water abstraction,0.00643999
+131,Brazil,2085,municipal water distribution,0.0167196
+132,Brazil,2085,municipal water treatment,0.0158794
+133,Brazil,2085,other industrial energy use,3.15444341
+134,Brazil,2085,resid cooling,0.229674
+135,Brazil,2085,resid heating,0.0431266
+136,Brazil,2085,resid others,1.51708
+137,Brazil,2085,transport,0.8914325939999999
+138,China,2030,agricultural energy use,0.39680121
+139,China,2030,aluminum,1.3817424
+140,China,2030,cement,0.443424
+141,China,2030,chemical energy use,3.798663
+142,China,2030,comm cooling,1.38378
+143,China,2030,comm heating,0.350641
+144,China,2030,comm others,4.74609
+145,China,2030,construction energy use,0.326238801
+146,China,2030,desalinated water,0.000367084
+147,China,2030,industrial wastewater treatment,0.295124
+148,China,2030,industrial water abstraction,0.0568576
+149,China,2030,industrial water treatment,0.108324
+150,China,2030,iron and steel,3.2969223954
+151,China,2030,irrigation water abstraction,0.0913608
+152,China,2030,mining energy use,0.438442484
+153,China,2030,municipal wastewater treatment,0.131553
+154,China,2030,municipal water abstraction,0.0328347
+155,China,2030,municipal water distribution,0.0870161
+156,China,2030,municipal water treatment,0.0827964
+157,China,2030,other industrial energy use,7.7954669999999995
+158,China,2030,resid cooling,1.1269
+159,China,2030,resid heating,0.0402805
+160,China,2030,resid others,6.86104
+161,China,2030,transport,0.59431508177603
+162,China,2050,agricultural energy use,0.6076837499999999
+163,China,2050,aluminum,1.2064932000000002
+164,China,2050,cement,0.34237011999999994
+165,China,2050,chemical energy use,5.3917078
+166,China,2050,comm cooling,1.26137
+167,China,2050,comm heating,0.635449
+168,China,2050,comm others,8.47838
+169,China,2050,construction energy use,0.394275196
+170,China,2050,desalinated water,0.000259349
+171,China,2050,industrial wastewater treatment,0.375173
+172,China,2050,industrial water abstraction,0.0598321
+173,China,2050,industrial water treatment,0.113991
+174,China,2050,iron and steel,3.45879402
+175,China,2050,irrigation water abstraction,0.0872579
+176,China,2050,mining energy use,0.5093122879999998
+177,China,2050,municipal wastewater treatment,0.168392
+178,China,2050,municipal water abstraction,0.034836
+179,China,2050,municipal water distribution,0.0923165
+180,China,2050,municipal water treatment,0.0878427
+181,China,2050,other industrial energy use,12.012304499999999
+182,China,2050,resid cooling,1.3943
+183,China,2050,resid heating,0.0924888
+184,China,2050,resid others,11.0446
+185,China,2050,transport,1.1245815266499999
+186,China,2085,agricultural energy use,0.5528990500000001
+187,China,2085,aluminum,0.485231188
+188,China,2085,cement,0.1896486906
+189,China,2085,chemical energy use,4.059262032517
+190,China,2085,comm cooling,0.592622
+191,China,2085,comm heating,0.953828
+192,China,2085,comm others,7.72527
+193,China,2085,construction energy use,0.28199682000000004
+194,China,2085,desalinated water,0.000141684
+195,China,2085,industrial wastewater treatment,0.296745
+196,China,2085,industrial water abstraction,0.0444316
+197,China,2085,industrial water treatment,0.0846506
+198,China,2085,iron and steel,1.7348124500000002
+199,China,2085,irrigation water abstraction,0.07283
+200,China,2085,mining energy use,0.38316375499999994
+201,China,2085,municipal wastewater treatment,0.120693
+202,China,2085,municipal water abstraction,0.0234508
+203,China,2085,municipal water distribution,0.0621449
+204,China,2085,municipal water treatment,0.0591338
+205,China,2085,other industrial energy use,13.7844627
+206,China,2085,resid cooling,0.833529
+207,China,2085,resid heating,0.218353
+208,China,2085,resid others,9.47002
+209,China,2085,transport,2.7354749000000007
+210,India,2030,agricultural energy use,0.08544628
+211,India,2030,aluminum,0.3811264
+212,India,2030,cement,0.12015123800000001
+213,India,2030,chemical energy use,0.09331217
+214,India,2030,comm cooling,0.200917
+215,India,2030,comm heating,0.0188291
+216,India,2030,comm others,2.4091
+217,India,2030,construction energy use,0.0043270109999999995
+218,India,2030,desalinated water,0.00238499
+219,India,2030,industrial wastewater treatment,0.0289615
+220,India,2030,industrial water abstraction,0.0133744
+221,India,2030,industrial water treatment,0.0263366
+222,India,2030,iron and steel,0.5674865718
+223,India,2030,irrigation water abstraction,0.594027
+224,India,2030,mining energy use,0.063247565
+225,India,2030,municipal wastewater treatment,0.0405848
+226,India,2030,municipal water abstraction,0.0242591
+227,India,2030,municipal water distribution,0.0666028
+228,India,2030,municipal water treatment,0.0632456
+229,India,2030,other industrial energy use,2.481757
+230,India,2030,resid cooling,0.257025
+231,India,2030,resid heating,0.0434032
+232,India,2030,resid others,3.20995
+233,India,2030,transport,0.194607399493
+234,India,2050,agricultural energy use,0.1888193
+235,India,2050,aluminum,1.013786602
+236,India,2050,cement,0.17522272860000002
+237,India,2050,chemical energy use,0.390244987
+238,India,2050,comm cooling,0.976966
+239,India,2050,comm heating,0.0883681
+240,India,2050,comm others,7.13192
+241,India,2050,construction energy use,0.015398513700000003
+242,India,2050,desalinated water,0.00669443
+243,India,2050,industrial wastewater treatment,0.0998867
+244,India,2050,industrial water abstraction,0.0234369
+245,India,2050,industrial water treatment,0.0461516
+246,India,2050,iron and steel,1.0780531533
+247,India,2050,irrigation water abstraction,0.741591
+248,India,2050,mining energy use,0.0803971
+249,India,2050,municipal wastewater treatment,0.0947182
+250,India,2050,municipal water abstraction,0.028893
+251,India,2050,municipal water distribution,0.0794861
+252,India,2050,municipal water treatment,0.0753265
+253,India,2050,other industrial energy use,6.743368500000001
+254,India,2050,resid cooling,0.708923
+255,India,2050,resid heating,0.13171
+256,India,2050,resid others,8.11612
+257,India,2050,transport,1.3048698175999998
+258,India,2085,agricultural energy use,0.2598433
+259,India,2085,aluminum,0.90336649
+260,India,2085,cement,0.133374379
+261,India,2085,chemical energy use,0.9781117860827
+262,India,2085,comm cooling,1.69236
+263,India,2085,comm heating,0.14445
+264,India,2085,comm others,10.276
+265,India,2085,construction energy use,0.038166941
+266,India,2085,desalinated water,0.00876158
+267,India,2085,industrial wastewater treatment,0.170679
+268,India,2085,industrial water abstraction,0.027836
+269,India,2085,industrial water treatment,0.0548142
+270,India,2085,iron and steel,0.8678658946561999
+271,India,2085,irrigation water abstraction,0.684174
+272,India,2085,mining energy use,0.072598737
+273,India,2085,municipal wastewater treatment,0.128845
+274,India,2085,municipal water abstraction,0.0273776
+275,India,2085,municipal water distribution,0.0754351
+276,India,2085,municipal water treatment,0.0713758
+277,India,2085,other industrial energy use,14.230792000000001
+278,India,2085,resid cooling,1.11663
+279,India,2085,resid heating,0.22389
+280,India,2085,resid others,8.31831
+281,India,2085,transport,4.1600676458
+282,South Asia,2030,agricultural energy use,0.0008842891700000001
+283,South Asia,2030,cement,0.0312042391
+284,South Asia,2030,comm cooling,0.029282600000000002
+285,South Asia,2030,comm others,0.1293675
+286,South Asia,2030,construction energy use,1.2412829e-05
+287,South Asia,2030,desalinated water,1.37003e-05
+288,South Asia,2030,industrial wastewater treatment,0.0036631249999999997
+289,South Asia,2030,industrial water abstraction,0.0033542
+290,South Asia,2030,industrial water treatment,0.0045213499999999995
+291,South Asia,2030,iron and steel,0.015766118184
+292,South Asia,2030,irrigation water abstraction,0.0616525
+293,South Asia,2030,mining energy use,8.84669103e-05
+294,South Asia,2030,municipal wastewater treatment,0.00668847
+295,South Asia,2030,municipal water abstraction,0.009738489999999999
+296,South Asia,2030,municipal water distribution,0.01735582
+297,South Asia,2030,municipal water treatment,0.01651519
+298,South Asia,2030,other industrial energy use,0.6344785000000001
+299,South Asia,2030,resid cooling,0.386541
+300,South Asia,2030,resid others,0.464688
+301,South Asia,2030,transport,0.025308970044760005
+302,South Asia,2050,agricultural energy use,0.00963047425
+303,South Asia,2050,cement,0.057324698699999996
+304,South Asia,2050,comm cooling,0.0901535
+305,South Asia,2050,comm others,0.560887
+306,South Asia,2050,construction energy use,0.00031968644
+307,South Asia,2050,desalinated water,1.92126e-05
+308,South Asia,2050,industrial wastewater treatment,0.01556206
+309,South Asia,2050,industrial water abstraction,0.00699569
+310,South Asia,2050,industrial water treatment,0.009418010000000001
+311,South Asia,2050,iron and steel,0.06839583899900001
+312,South Asia,2050,irrigation water abstraction,0.0675791
+313,South Asia,2050,mining energy use,8.964953220000001e-05
+314,South Asia,2050,municipal wastewater treatment,0.018628350000000002
+315,South Asia,2050,municipal water abstraction,0.01233053
+316,South Asia,2050,municipal water distribution,0.0219754
+317,South Asia,2050,municipal water treatment,0.020910790000000002
+318,South Asia,2050,other industrial energy use,2.4657387379999998
+319,South Asia,2050,resid cooling,0.827913
+320,South Asia,2050,resid others,1.834781
+321,South Asia,2050,transport,0.23563154044999998
+322,South Asia,2085,agricultural energy use,0.0146463745
+323,South Asia,2085,cement,0.0548572413
+324,South Asia,2085,comm cooling,0.2360374
+325,South Asia,2085,comm others,2.043931
+326,South Asia,2085,construction energy use,0.0009045338
+327,South Asia,2085,desalinated water,1.96535e-05
+328,South Asia,2085,industrial wastewater treatment,0.0392724
+329,South Asia,2085,industrial water abstraction,0.01020528
+330,South Asia,2085,industrial water treatment,0.01370272
+331,South Asia,2085,iron and steel,0.08979221188
+332,South Asia,2085,irrigation water abstraction,0.0560388
+333,South Asia,2085,mining energy use,5.831602599999999e-05
+334,South Asia,2085,municipal wastewater treatment,0.036562700000000004
+335,South Asia,2085,municipal water abstraction,0.01322419
+336,South Asia,2085,municipal water distribution,0.023567320000000003
+337,South Asia,2085,municipal water treatment,0.022425590000000002
+338,South Asia,2085,other industrial energy use,5.51247457
+339,South Asia,2085,resid cooling,0.768004
+340,South Asia,2085,resid others,2.91047
+341,South Asia,2085,transport,0.7449531219999999

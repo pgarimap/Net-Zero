@@ -1,0 +1,190 @@
+,Year,technology,region,value
+0,2030,H2 delivery,Australia_NZ,0.00184033
+1,2030,H2 delivery,Canada,0.004957
+2,2030,H2 delivery,EU-15,0.0287786
+3,2030,H2 delivery,European Free Trade Association,0.00104144
+4,2030,H2 delivery,Russia,0.0139472
+5,2030,H2 delivery,South Korea,0.00737223
+6,2030,H2 delivery,USA,0.0200487
+7,2030,H2 liquid truck,Australia_NZ,8.9139508392
+8,2030,H2 liquid truck,Canada,11.913005552
+9,2030,H2 liquid truck,EU-15,58.997111331999996
+10,2030,H2 liquid truck,European Free Trade Association,2.0267423836000003
+11,2030,H2 liquid truck,Russia,18.320564009
+12,2030,H2 liquid truck,South Korea,5.4529285207
+13,2030,H2 liquid truck,USA,79.111120411
+14,2030,H2 pipeline,Australia_NZ,0.026628563
+15,2030,H2 pipeline,Canada,0.042660027
+16,2030,H2 pipeline,EU-15,0.22823717000000002
+17,2030,H2 pipeline,European Free Trade Association,0.006770637
+18,2030,H2 pipeline,Russia,0.07511098499999999
+19,2030,H2 pipeline,South Korea,0.029153830999999998
+20,2030,H2 pipeline,USA,0.26442305
+21,2030,H2 retail delivery,Australia_NZ,0.00107113
+22,2030,H2 retail delivery,Canada,0.00426921
+23,2030,H2 retail delivery,EU-15,0.0358524
+24,2030,H2 retail delivery,European Free Trade Association,0.000276228
+25,2030,H2 retail delivery,Russia,0.00839892
+26,2030,H2 retail delivery,South Korea,0.00209329
+27,2030,H2 retail delivery,USA,0.0368848
+28,2030,H2 retail dispensing,Australia_NZ,0.0243613
+29,2030,H2 retail dispensing,Canada,0.0258537
+30,2030,H2 retail dispensing,EU-15,0.153762
+31,2030,H2 retail dispensing,European Free Trade Association,0.0056815
+32,2030,H2 retail dispensing,Russia,0.0235971
+33,2030,H2 retail dispensing,South Korea,0.0115455
+34,2030,H2 retail dispensing,USA,0.202349
+35,2030,biomass to H2,Australia_NZ,0.00605838255
+36,2030,biomass to H2,Canada,0.012740414799999999
+37,2030,biomass to H2,EU-15,0.0588021037
+38,2030,biomass to H2,European Free Trade Association,0.0024934114700000004
+39,2030,biomass to H2,Russia,0.0155610515
+40,2030,biomass to H2,South Korea,0.0082002415
+41,2030,biomass to H2,USA,0.0701909833
+42,2030,electrolysis,Australia_NZ,0.0033953278789999996
+43,2030,electrolysis,Canada,0.0045044653487400005
+44,2030,electrolysis,EU-15,0.022360555836
+45,2030,electrolysis,European Free Trade Association,0.0008530043949400001
+46,2030,electrolysis,Russia,0.00556575588856
+47,2030,electrolysis,South Korea,0.004222970347200001
+48,2030,electrolysis,USA,0.03435333942779999
+49,2030,natural gas steam reforming,Australia_NZ,0.056972939999999986
+50,2030,natural gas steam reforming,Canada,0.07476175809999999
+51,2030,natural gas steam reforming,EU-15,0.34340227599999995
+52,2030,natural gas steam reforming,European Free Trade Association,0.011608069370000003
+53,2030,natural gas steam reforming,Russia,0.12026004099999997
+54,2030,natural gas steam reforming,South Korea,0.03421539690000001
+55,2030,natural gas steam reforming,USA,0.476610744
+56,2030,thermal splitting,Australia_NZ,0.0013311686000000002
+57,2030,thermal splitting,Canada,0.0024522291999999994
+58,2030,thermal splitting,EU-15,0.0108870958
+59,2030,thermal splitting,European Free Trade Association,0.0003107526
+60,2030,thermal splitting,Russia,0.0025329245999999995
+61,2030,thermal splitting,South Korea,0.0018693602
+62,2030,thermal splitting,USA,0.014440212000000001
+63,2040,H2 delivery,Australia_NZ,0.00692845
+64,2040,H2 delivery,Canada,0.0220002
+65,2040,H2 delivery,EU-15,0.128593
+66,2040,H2 delivery,European Free Trade Association,0.00507833
+67,2040,H2 delivery,Russia,0.0623399
+68,2040,H2 delivery,South Korea,0.0262622
+69,2040,H2 delivery,USA,0.0770467
+70,2040,H2 liquid truck,Australia_NZ,21.810391005
+71,2040,H2 liquid truck,Canada,30.059818886000002
+72,2040,H2 liquid truck,EU-15,144.5737746
+73,2040,H2 liquid truck,European Free Trade Association,5.173793552599999
+74,2040,H2 liquid truck,Russia,53.371954937999995
+75,2040,H2 liquid truck,South Korea,17.6655445536
+76,2040,H2 liquid truck,USA,188.38626311000002
+77,2040,H2 pipeline,Australia_NZ,0.06331049600000001
+78,2040,H2 pipeline,Canada,0.110236807
+79,2040,H2 pipeline,EU-15,0.58331932
+80,2040,H2 pipeline,European Free Trade Association,0.018694594999999998
+81,2040,H2 pipeline,Russia,0.22232516
+82,2040,H2 pipeline,South Korea,0.095814461
+83,2040,H2 pipeline,USA,0.62066666
+84,2040,H2 retail delivery,Australia_NZ,0.00257203
+85,2040,H2 retail delivery,Canada,0.00889973
+86,2040,H2 retail delivery,EU-15,0.0782081
+87,2040,H2 retail delivery,European Free Trade Association,0.000608854
+88,2040,H2 retail delivery,Russia,0.0174457
+89,2040,H2 retail delivery,South Korea,0.0042736
+90,2040,H2 retail delivery,USA,0.0797598
+91,2040,H2 retail dispensing,Australia_NZ,0.0697842
+92,2040,H2 retail dispensing,Canada,0.0707533
+93,2040,H2 retail dispensing,EU-15,0.387723
+94,2040,H2 retail dispensing,European Free Trade Association,0.0144351
+95,2040,H2 retail dispensing,Russia,0.0756016
+96,2040,H2 retail dispensing,South Korea,0.0322601
+97,2040,H2 retail dispensing,USA,0.57772
+98,2040,biomass to H2,Australia_NZ,0.015781779620000002
+99,2040,biomass to H2,Canada,0.0314520245
+100,2040,biomass to H2,EU-15,0.14374555220000002
+101,2040,biomass to H2,European Free Trade Association,0.006785139799999999
+102,2040,biomass to H2,Russia,0.0436535522
+103,2040,biomass to H2,South Korea,0.027643734700000002
+104,2040,biomass to H2,USA,0.1571957579
+105,2040,electrolysis,Australia_NZ,0.013225080628
+106,2040,electrolysis,Canada,0.01682217194402
+107,2040,electrolysis,EU-15,0.08082373548599998
+108,2040,electrolysis,European Free Trade Association,0.003684403993880001
+109,2040,electrolysis,Russia,0.026621003105899994
+110,2040,electrolysis,South Korea,0.019097006456000012
+111,2040,electrolysis,USA,0.11231665923119999
+112,2040,natural gas steam reforming,Australia_NZ,0.16278440019999998
+113,2040,natural gas steam reforming,Canada,0.217804792
+114,2040,natural gas steam reforming,EU-15,0.9549819900000002
+115,2040,natural gas steam reforming,European Free Trade Association,0.03339483451
+116,2040,natural gas steam reforming,Russia,0.38699923260000013
+117,2040,natural gas steam reforming,South Korea,0.11077711200000001
+118,2040,natural gas steam reforming,USA,1.3704172910000003
+119,2040,thermal splitting,Australia_NZ,0.0034893387999999997
+120,2040,thermal splitting,Canada,0.0062608075999999995
+121,2040,thermal splitting,EU-15,0.027859023799999997
+122,2040,thermal splitting,European Free Trade Association,0.00085499886
+123,2040,thermal splitting,Russia,0.00771068
+124,2040,thermal splitting,South Korea,0.006146447
+125,2040,thermal splitting,USA,0.033754315800000004
+126,2050,H2 delivery,Australia_NZ,0.0137578
+127,2050,H2 delivery,Canada,0.0350544
+128,2050,H2 delivery,EU-15,0.199785
+129,2050,H2 delivery,European Free Trade Association,0.00879747
+130,2050,H2 delivery,Russia,0.0976699
+131,2050,H2 delivery,South Korea,0.0374332
+132,2050,H2 delivery,USA,0.129215
+133,2050,H2 liquid truck,Australia_NZ,33.312593774
+134,2050,H2 liquid truck,Canada,45.898490442
+135,2050,H2 liquid truck,EU-15,218.40614692999998
+136,2050,H2 liquid truck,European Free Trade Association,8.1605532465
+137,2050,H2 liquid truck,Russia,79.501925592
+138,2050,H2 liquid truck,South Korea,26.4077982844
+139,2050,H2 liquid truck,USA,296.12127957
+140,2050,H2 pipeline,Australia_NZ,0.096325992
+141,2050,H2 pipeline,Canada,0.15892310000000004
+142,2050,H2 pipeline,EU-15,0.8503211700000001
+143,2050,H2 pipeline,European Free Trade Association,0.029414193
+144,2050,H2 pipeline,Russia,0.32380158000000003
+145,2050,H2 pipeline,South Korea,0.13611062999999998
+146,2050,H2 pipeline,USA,0.93828371
+147,2050,H2 retail delivery,Australia_NZ,0.00449666
+148,2050,H2 retail delivery,Canada,0.0136362
+149,2050,H2 retail delivery,EU-15,0.117727
+150,2050,H2 retail delivery,European Free Trade Association,0.000989731
+151,2050,H2 retail delivery,Russia,0.0266646
+152,2050,H2 retail delivery,South Korea,0.00616676
+153,2050,H2 retail delivery,USA,0.128665
+154,2050,H2 retail dispensing,Australia_NZ,0.110508
+155,2050,H2 retail dispensing,Canada,0.111871
+156,2050,H2 retail dispensing,EU-15,0.565526
+157,2050,H2 retail dispensing,European Free Trade Association,0.0211672
+158,2050,H2 retail dispensing,Russia,0.114802
+159,2050,H2 retail dispensing,South Korea,0.0421546
+160,2050,H2 retail dispensing,USA,0.924547
+161,2050,biomass to H2,Australia_NZ,0.023810089530000002
+162,2050,biomass to H2,Canada,0.045740017800000005
+163,2050,biomass to H2,EU-15,0.1882625497
+164,2050,biomass to H2,European Free Trade Association,0.009906662659999997
+165,2050,biomass to H2,Russia,0.054141845300000005
+166,2050,biomass to H2,South Korea,0.0376786063
+167,2050,biomass to H2,USA,0.2324726783
+168,2050,electrolysis,Australia_NZ,0.029633958894400004
+169,2050,electrolysis,Canada,0.03605757588099999
+170,2050,electrolysis,EU-15,0.1552025913742
+171,2050,electrolysis,European Free Trade Association,0.007487495770919999
+172,2050,electrolysis,Russia,0.05278833603812
+173,2050,electrolysis,South Korea,0.03550196331419999
+174,2050,electrolysis,USA,0.24309557564800005
+175,2050,natural gas steam reforming,Australia_NZ,0.25494735859999995
+176,2050,natural gas steam reforming,Canada,0.3317191865
+177,2050,natural gas steam reforming,EU-15,1.4733173960000001
+178,2050,natural gas steam reforming,European Free Trade Association,0.05347726572
+179,2050,natural gas steam reforming,Russia,0.5949964653000002
+180,2050,natural gas steam reforming,South Korea,0.1629551024
+181,2050,natural gas steam reforming,USA,2.1849311499999997
+182,2050,thermal splitting,Australia_NZ,0.00567543804
+183,2050,thermal splitting,Canada,0.0096405988
+184,2050,thermal splitting,EU-15,0.04140799839999999
+185,2050,thermal splitting,European Free Trade Association,0.0013615893799999999
+186,2050,thermal splitting,Russia,0.0115878404
+187,2050,thermal splitting,South Korea,0.009018170600000002
+188,2050,thermal splitting,USA,0.053295716599999994

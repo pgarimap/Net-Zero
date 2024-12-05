@@ -1,0 +1,136 @@
+,Year,technology,region,value
+0,2030,H2 delivery,Africa_Western,0.0107241
+1,2030,H2 delivery,Brazil,0.00644897
+2,2030,H2 delivery,China,0.141594
+3,2030,H2 delivery,India,0.0202841
+4,2030,H2 delivery,South Asia,0.0035734599999999997
+5,2030,H2 liquid truck,Africa_Western,6.7049853449
+6,2030,H2 liquid truck,Brazil,14.645396380000001
+7,2030,H2 liquid truck,China,91.080208812
+8,2030,H2 liquid truck,India,17.8283113
+9,2030,H2 liquid truck,South Asia,4.1128424749
+10,2030,H2 pipeline,Africa_Western,0.034128295
+11,2030,H2 pipeline,Brazil,0.046462033
+12,2030,H2 pipeline,China,0.42798099
+13,2030,H2 pipeline,India,0.078193443
+14,2030,H2 pipeline,South Asia,0.0187959775
+15,2030,H2 retail delivery,Africa_Western,3.51061e-07
+16,2030,H2 retail delivery,Brazil,9.42301e-05
+17,2030,H2 retail delivery,China,0.0359214
+18,2030,H2 retail delivery,India,0.000991456
+19,2030,H2 retail delivery,South Asia,0.0032476
+20,2030,H2 retail dispensing,Africa_Western,0.0124389
+21,2030,H2 retail dispensing,Brazil,0.0445052
+22,2030,H2 retail dispensing,China,0.0824998
+23,2030,H2 retail dispensing,India,0.0316094
+24,2030,H2 retail dispensing,South Asia,0.00841452
+25,2030,biomass to H2,Africa_Western,0.0083857451
+26,2030,biomass to H2,Brazil,0.013560805599999998
+27,2030,biomass to H2,China,0.097241598
+28,2030,biomass to H2,India,0.015673061100000003
+29,2030,biomass to H2,South Asia,0.0054781386400000005
+30,2030,electrolysis,Africa_Western,0.004947175832680003
+31,2030,electrolysis,Brazil,0.006387194835199999
+32,2030,electrolysis,China,0.06253146408600001
+33,2030,electrolysis,India,0.007660132757359998
+34,2030,electrolysis,South Asia,0.0027579781419619994
+35,2030,natural gas steam reforming,Africa_Western,0.0390065839
+36,2030,natural gas steam reforming,Brazil,0.0936363547
+37,2030,natural gas steam reforming,China,0.518885668
+38,2030,natural gas steam reforming,India,0.12094629500000001
+39,2030,natural gas steam reforming,South Asia,0.022879392109999997
+40,2030,thermal splitting,Africa_Western,0.0018849291999999999
+41,2030,thermal splitting,Brazil,0.0030621274000000006
+42,2030,thermal splitting,China,0.020595182000000004
+43,2030,thermal splitting,India,0.0036357852
+44,2030,thermal splitting,South Asia,0.0012101275399999999
+45,2040,H2 delivery,Africa_Western,0.0445237
+46,2040,H2 delivery,Brazil,0.0222969
+47,2040,H2 delivery,China,0.377734
+48,2040,H2 delivery,India,0.088175
+49,2040,H2 delivery,South Asia,0.01791689
+50,2040,H2 liquid truck,Africa_Western,35.528286391
+51,2040,H2 liquid truck,Brazil,34.82882205
+52,2040,H2 liquid truck,China,262.44399659
+53,2040,H2 liquid truck,India,83.428592713
+54,2040,H2 liquid truck,South Asia,19.359487293199997
+55,2040,H2 pipeline,Africa_Western,0.15255608
+56,2040,H2 pipeline,Brazil,0.11153874
+57,2040,H2 pipeline,China,1.12359706
+58,2040,H2 pipeline,India,0.33418381999999996
+59,2040,H2 pipeline,South Asia,0.080140517
+60,2040,H2 retail delivery,Africa_Western,1.6177e-06
+61,2040,H2 retail delivery,Brazil,0.000222184
+62,2040,H2 retail delivery,China,0.0948597
+63,2040,H2 retail delivery,India,0.00320945
+64,2040,H2 retail delivery,South Asia,0.01152703
+65,2040,H2 retail dispensing,Africa_Western,0.0808793
+66,2040,H2 retail dispensing,Brazil,0.11467
+67,2040,H2 retail dispensing,China,0.287963
+68,2040,H2 retail dispensing,India,0.20405
+69,2040,H2 retail dispensing,South Asia,0.0464581
+70,2040,biomass to H2,Africa_Western,0.04364080433
+71,2040,biomass to H2,Brazil,0.0355415778
+72,2040,biomass to H2,China,0.262948053
+73,2040,biomass to H2,India,0.06740266019999999
+74,2040,biomass to H2,South Asia,0.025323449819999996
+75,2040,electrolysis,Africa_Western,0.03563127356762001
+76,2040,electrolysis,Brazil,0.024207590314200004
+77,2040,electrolysis,China,0.22947349142200002
+78,2040,electrolysis,India,0.04598768175626
+79,2040,electrolysis,South Asia,0.018678441558763997
+80,2040,natural gas steam reforming,Africa_Western,0.19835414349999997
+81,2040,natural gas steam reforming,Brazil,0.2511632367
+82,2040,natural gas steam reforming,China,1.5558658260000002
+83,2040,natural gas steam reforming,India,0.5943485161000001
+84,2040,natural gas steam reforming,South Asia,0.10579744463000001
+85,2040,thermal splitting,Africa_Western,0.0094275838
+86,2040,thermal splitting,Brazil,0.0078074714
+87,2040,thermal splitting,China,0.057485869999999994
+88,2040,thermal splitting,India,0.0159553134
+89,2040,thermal splitting,South Asia,0.00554348916
+90,2050,H2 delivery,Africa_Western,0.118538
+91,2050,H2 delivery,Brazil,0.038366
+92,2050,H2 delivery,China,0.514222
+93,2050,H2 delivery,India,0.155418
+94,2050,H2 delivery,South Asia,0.033943
+95,2050,H2 liquid truck,Africa_Western,88.38386248100001
+96,2050,H2 liquid truck,Brazil,50.688968757000005
+97,2050,H2 liquid truck,China,359.35054773
+98,2050,H2 liquid truck,India,139.53356709000002
+99,2050,H2 liquid truck,South Asia,37.246541620399995
+100,2050,H2 pipeline,Africa_Western,0.3733919
+101,2050,H2 pipeline,Brazil,0.16111801
+102,2050,H2 pipeline,China,1.5076441
+103,2050,H2 pipeline,India,0.55037839
+104,2050,H2 pipeline,South Asia,0.15515885499999998
+105,2050,H2 retail delivery,Africa_Western,5.8812e-06
+106,2050,H2 retail delivery,Brazil,0.000383228
+107,2050,H2 retail delivery,China,0.155596
+108,2050,H2 retail delivery,India,0.00637421
+109,2050,H2 retail delivery,South Asia,0.030493899999999997
+110,2050,H2 retail dispensing,Africa_Western,0.180459
+111,2050,H2 retail dispensing,Brazil,0.162837
+112,2050,H2 retail dispensing,China,0.368152
+113,2050,H2 retail dispensing,India,0.357095
+114,2050,H2 retail dispensing,South Asia,0.0813277
+115,2050,biomass to H2,Africa_Western,0.10378934777
+116,2050,biomass to H2,Brazil,0.0511005719
+117,2050,biomass to H2,China,0.33277103300000005
+118,2050,biomass to H2,India,0.10406958770000002
+119,2050,biomass to H2,South Asia,0.04832461869999999
+120,2050,electrolysis,Africa_Western,0.12271180563110001
+121,2050,electrolysis,Brazil,0.050611738712200004
+122,2050,electrolysis,China,0.38922638364600004
+123,2050,electrolysis,India,0.10056888452116
+124,2050,electrolysis,South Asia,0.04871171113361801
+125,2050,natural gas steam reforming,Africa_Western,0.46527368440000005
+126,2050,natural gas steam reforming,Brazil,0.3631762442
+127,2050,natural gas steam reforming,China,2.196458498
+128,2050,natural gas steam reforming,India,1.0665956839999997
+129,2050,natural gas steam reforming,South Asia,0.19061730260999998
+130,2050,thermal splitting,Africa_Western,0.024232550539999998
+131,2050,thermal splitting,Brazil,0.011766388399999998
+132,2050,thermal splitting,China,0.07992091800000001
+133,2050,thermal splitting,India,0.0274685702
+134,2050,thermal splitting,South Asia,0.011377460839999999

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+
+    <aQuery>
+        <all-regions/>
+        <supplyDemandQuery title="hydrogen costs by tech">
+            <axis1 name="technology">technology</axis1>
+            <axis2 name="Year">cost</axis2>
+            <xPath buildList="true" dataName="cost" group="false" sumAll="false">*[@type='sector' and
+                contains(@name,'H2')]/
+                *[@type='subsector']/*[@type='technology']/cost/text()
+            </xPath>
+            <comments/>
+        </supplyDemandQuery>
+
+    </aQuery>
+
+</queries>

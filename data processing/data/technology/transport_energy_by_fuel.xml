@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+
+    <aQuery>
+        <all-regions/>
+        <supplyDemandQuery title="transport final energy by fuel">
+                    <axis1 name="input">input</axis1>
+                    <axis2 name="Year">demand-physical[@vintage]</axis2>
+                    <xPath buildList="true" dataName="input" group="false" sumAll="false">*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' and not (@name='renewable')]/demand-physical[@unit='EJ']/node()</xPath>
+                    <comments/>
+                </supplyDemandQuery>
+
+
+    </aQuery>
+
+</queries>

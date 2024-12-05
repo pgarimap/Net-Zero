@@ -1,0 +1,63 @@
+,Units,region,fuel,value
+10,EJ,Australia_NZ,a oil,0.157667
+32,EJ,Australia_NZ,b natural gas,1.2472397899999998
+54,EJ,Australia_NZ,c coal,0.265263
+76,EJ,Australia_NZ,d biomass,2.644554993999999
+92,EJ,Australia_NZ,e nuclear,0.08649629454218348
+113,EJ,Australia_NZ,f hydro,0.3735385831260939
+133,EJ,Australia_NZ,g wind,1.660649120654772
+153,EJ,Australia_NZ,h solar,1.8527325326816435
+174,EJ,Australia_NZ,i geothermal,0.4407882829948903
+195,EJ,Canada,a oil,2.97532
+217,EJ,Canada,b natural gas,1.876956
+239,EJ,Canada,c coal,0.15092
+261,EJ,Canada,d biomass,2.6752798219999994
+282,EJ,Canada,e nuclear,2.078543434253098
+303,EJ,Canada,f hydro,3.0484040914986688
+323,EJ,Canada,g wind,3.0667630873066543
+343,EJ,Canada,h solar,1.9318837993087594
+360,EJ,Canada,i geothermal,0.1818473415389187
+381,EJ,EU-15,a oil,1.35959
+403,EJ,EU-15,b natural gas,2.365917
+425,EJ,EU-15,c coal,0.434995
+447,EJ,EU-15,d biomass,14.912345850000001
+468,EJ,EU-15,e nuclear,7.578615471423068
+489,EJ,EU-15,f hydro,2.2543320252268497
+510,EJ,EU-15,g wind,18.11844205933628
+531,EJ,EU-15,h solar,8.519518167727144
+552,EJ,EU-15,i geothermal,1.5119661107971059
+573,EJ,European Free Trade Association,a oil,0.236224
+595,EJ,European Free Trade Association,b natural gas,0.015647291
+617,EJ,European Free Trade Association,c coal,0.0222692
+639,EJ,European Free Trade Association,d biomass,0.9142554126
+660,EJ,European Free Trade Association,e nuclear,0.23447113877739287
+681,EJ,European Free Trade Association,f hydro,1.837839937350283
+701,EJ,European Free Trade Association,g wind,1.7364189171789708
+722,EJ,European Free Trade Association,h solar,0.28873357914510533
+743,EJ,European Free Trade Association,i geothermal,0.09088117249921802
+764,EJ,Russia,a oil,4.23286
+786,EJ,Russia,b natural gas,10.887118000000001
+808,EJ,Russia,c coal,0.701883
+830,EJ,Russia,d biomass,5.846770270000001
+851,EJ,Russia,e nuclear,4.32998413796423
+872,EJ,Russia,f hydro,1.63037432800519
+892,EJ,Russia,g wind,3.699518399523678
+910,EJ,Russia,h solar,2.7650766619933975
+931,EJ,Russia,i geothermal,0.4975296051058449
+951,EJ,South Korea,a oil,0.0161067
+971,EJ,South Korea,b natural gas,0.004278298
+993,EJ,South Korea,c coal,0.0222822
+1015,EJ,South Korea,d biomass,2.2276407519999997
+1036,EJ,South Korea,e nuclear,2.576370161619258
+1057,EJ,South Korea,f hydro,0.0554260440725736
+1077,EJ,South Korea,g wind,0.7706114415509344
+1098,EJ,South Korea,h solar,1.396545759125387
+1119,EJ,USA,a oil,13.4611
+1141,EJ,USA,b natural gas,18.557027599999998
+1163,EJ,USA,c coal,2.03613
+1185,EJ,USA,d biomass,20.807119869999998
+1206,EJ,USA,e nuclear,8.725376826160256
+1227,EJ,USA,f hydro,1.910950445384231
+1248,EJ,USA,g wind,22.273976010807186
+1269,EJ,USA,h solar,12.956304991554436
+1290,EJ,USA,i geothermal,2.4893893623854497

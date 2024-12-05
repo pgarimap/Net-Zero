@@ -1,0 +1,25 @@
+sector,2030,2050,2085
+other industrial energy use,11.79,24.8,46.82
+comm others,8.1,19.48,30.49
+resid others,11.57,25.54,29.71
+transport,1.01,3.39,10.52
+chemical energy use,4.02,5.99,5.27
+resid cooling,2.17,4.12,5.22
+comm cooling,1.88,2.89,3.96
+iron and steel,4.05,4.89,2.95
+aluminum,1.91,2.63,2.02
+comm heating,0.39,0.75,1.13
+agricultural energy use,0.59,0.99,1.05
+irrigation water abstraction,0.76,0.91,0.83
+industrial wastewater treatment,0.35,0.53,0.56
+mining energy use,0.57,0.68,0.54
+cement,0.64,0.68,0.51
+resid heating,0.1,0.25,0.49
+municipal wastewater treatment,0.21,0.34,0.39
+construction energy use,0.33,0.41,0.33
+municipal water distribution,0.2,0.24,0.22
+municipal water treatment,0.19,0.23,0.21
+industrial water treatment,0.15,0.18,0.17
+industrial water abstraction,0.08,0.1,0.09
+municipal water abstraction,0.08,0.09,0.08
+desalinated water,0.0,0.01,0.01

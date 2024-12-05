@@ -1,0 +1,1378 @@
+,region,sector,Year,value
+0,Africa_Western,N fertilizer,2025,0.000248333
+1,Africa_Western,N fertilizer,2030,0.000509836
+2,Africa_Western,N fertilizer,2035,0.001307907
+3,Africa_Western,N fertilizer,2040,0.00264206
+4,Africa_Western,N fertilizer,2045,0.004577819
+5,Africa_Western,N fertilizer,2050,0.0066050527
+6,Africa_Western,N fertilizer,2055,0.008303388399999998
+7,Africa_Western,N fertilizer,2060,0.00970043784
+8,Africa_Western,N fertilizer,2065,0.01121804181
+9,Africa_Western,N fertilizer,2070,0.01295272726
+10,Africa_Western,N fertilizer,2075,0.0147632774
+11,Africa_Western,N fertilizer,2080,0.0165685809
+12,Africa_Western,N fertilizer,2085,0.0184167808
+13,Africa_Western,N fertilizer,2090,0.020230864200000004
+14,Africa_Western,N fertilizer,2095,0.021853306299999996
+15,Africa_Western,N fertilizer,2100,0.0231727665
+16,Africa_Western,agricultural energy use,2025,0.000100568
+17,Africa_Western,agricultural energy use,2030,0.0003667365
+18,Africa_Western,agricultural energy use,2035,0.0007648759
+19,Africa_Western,agricultural energy use,2040,0.0011213754000000001
+20,Africa_Western,agricultural energy use,2045,0.0014452217
+21,Africa_Western,agricultural energy use,2050,0.0016649117
+22,Africa_Western,agricultural energy use,2055,0.001777274
+23,Africa_Western,agricultural energy use,2060,0.001848263
+24,Africa_Western,agricultural energy use,2065,0.001914966
+25,Africa_Western,agricultural energy use,2070,0.001994994
+26,Africa_Western,agricultural energy use,2075,0.0020626710000000003
+27,Africa_Western,agricultural energy use,2080,0.002097818
+28,Africa_Western,agricultural energy use,2085,0.002101981
+29,Africa_Western,agricultural energy use,2090,0.002085305
+30,Africa_Western,agricultural energy use,2095,0.0020582
+31,Africa_Western,agricultural energy use,2100,0.0020218099999999998
+32,Africa_Western,chemical energy use,2055,0.000583578
+33,Africa_Western,chemical energy use,2060,0.00142
+34,Africa_Western,chemical energy use,2065,0.002476738
+35,Africa_Western,chemical energy use,2070,0.0035567050000000003
+36,Africa_Western,chemical energy use,2075,0.004455048
+37,Africa_Western,chemical energy use,2080,0.005452864
+38,Africa_Western,chemical energy use,2085,0.0065656985
+39,Africa_Western,chemical energy use,2090,0.007727999330000001
+40,Africa_Western,chemical energy use,2095,0.00886389076
+41,Africa_Western,chemical energy use,2100,0.010001469445000001
+42,Africa_Western,comm others,2025,2.05422e-08
+43,Africa_Western,comm others,2030,2.91478e-07
+44,Africa_Western,comm others,2035,8.35504e-07
+45,Africa_Western,comm others,2040,2.14988e-06
+46,Africa_Western,comm others,2045,4.78301e-06
+47,Africa_Western,comm others,2050,9.6781e-06
+48,Africa_Western,comm others,2055,1.50532e-05
+49,Africa_Western,comm others,2060,2.11589e-05
+50,Africa_Western,comm others,2065,2.89351e-05
+51,Africa_Western,comm others,2070,3.87088e-05
+52,Africa_Western,comm others,2075,4.93414e-05
+53,Africa_Western,comm others,2080,6.11136e-05
+54,Africa_Western,comm others,2085,7.3514e-05
+55,Africa_Western,comm others,2090,8.61802e-05
+56,Africa_Western,comm others,2095,9.96124e-05
+57,Africa_Western,comm others,2100,0.000115475
+58,Africa_Western,construction energy use,2025,8.30559e-06
+59,Africa_Western,construction energy use,2030,2.9967359999999998e-05
+60,Africa_Western,construction energy use,2035,6.299495e-05
+61,Africa_Western,construction energy use,2040,9.813733e-05
+62,Africa_Western,construction energy use,2045,0.00013665663
+63,Africa_Western,construction energy use,2050,0.00017221399
+64,Africa_Western,construction energy use,2055,0.00019806782
+65,Africa_Western,construction energy use,2060,0.00021702769999999998
+66,Africa_Western,construction energy use,2065,0.0002331117
+67,Africa_Western,construction energy use,2070,0.0002486317
+68,Africa_Western,construction energy use,2075,0.0002660594
+69,Africa_Western,construction energy use,2080,0.0002833683
+70,Africa_Western,construction energy use,2085,0.0002990223
+71,Africa_Western,construction energy use,2090,0.0003136695
+72,Africa_Western,construction energy use,2095,0.000327921
+73,Africa_Western,construction energy use,2100,0.00034231979999999995
+74,Africa_Western,iron and steel,2025,1.522126e-05
+75,Africa_Western,iron and steel,2030,7.277512e-05
+76,Africa_Western,iron and steel,2035,0.00016974679999999997
+77,Africa_Western,iron and steel,2040,0.00032114027
+78,Africa_Western,iron and steel,2045,0.0005434251099999999
+79,Africa_Western,iron and steel,2050,0.00085122457
+80,Africa_Western,iron and steel,2055,0.0012346753
+81,Africa_Western,iron and steel,2060,0.0016981252
+82,Africa_Western,iron and steel,2065,0.0022879396
+83,Africa_Western,iron and steel,2070,0.0030345817
+84,Africa_Western,iron and steel,2075,0.0039172529
+85,Africa_Western,iron and steel,2080,0.0049266339
+86,Africa_Western,iron and steel,2085,0.0060749284
+87,Africa_Western,iron and steel,2090,0.007383747699999999
+88,Africa_Western,iron and steel,2095,0.0088955629
+89,Africa_Western,iron and steel,2100,0.0105954333
+90,Africa_Western,mining energy use,2025,1.34066e-05
+91,Africa_Western,mining energy use,2030,5.09619e-05
+92,Africa_Western,mining energy use,2035,0.00011198794
+93,Africa_Western,mining energy use,2040,0.00017422639
+94,Africa_Western,mining energy use,2045,0.0002440764
+95,Africa_Western,mining energy use,2050,0.0003090018
+96,Africa_Western,mining energy use,2055,0.00035710420000000003
+97,Africa_Western,mining energy use,2060,0.0003965364
+98,Africa_Western,mining energy use,2065,0.00043623340000000004
+99,Africa_Western,mining energy use,2070,0.0004825839
+100,Africa_Western,mining energy use,2075,0.0005327234000000001
+101,Africa_Western,mining energy use,2080,0.0005807625
+102,Africa_Western,mining energy use,2085,0.0006264438
+103,Africa_Western,mining energy use,2090,0.0006708017
+104,Africa_Western,mining energy use,2095,0.0007150926000000001
+105,Africa_Western,mining energy use,2100,0.0007602415
+106,Africa_Western,other industrial energy use,2025,0.00115146
+107,Africa_Western,other industrial energy use,2030,0.006619386999999999
+108,Africa_Western,other industrial energy use,2035,0.017546256000000003
+109,Africa_Western,other industrial energy use,2040,0.037839164999999994
+110,Africa_Western,other industrial energy use,2045,0.06775946299999999
+111,Africa_Western,other industrial energy use,2050,0.10947990400000002
+112,Africa_Western,other industrial energy use,2055,0.1614725809
+113,Africa_Western,other industrial energy use,2060,0.21808184454999996
+114,Africa_Western,other industrial energy use,2065,0.27624201460000003
+115,Africa_Western,other industrial energy use,2070,0.33519027939999996
+116,Africa_Western,other industrial energy use,2075,0.3944709265
+117,Africa_Western,other industrial energy use,2080,0.45312910000000006
+118,Africa_Western,other industrial energy use,2085,0.50930237
+119,Africa_Western,other industrial energy use,2090,0.56132629
+120,Africa_Western,other industrial energy use,2095,0.6080632960000001
+121,Africa_Western,other industrial energy use,2100,0.6499385860000001
+122,Africa_Western,process heat cement,2025,0.000295174
+123,Africa_Western,process heat cement,2030,0.0029915980000000003
+124,Africa_Western,process heat cement,2035,0.009573439
+125,Africa_Western,process heat cement,2040,0.023381252999999998
+126,Africa_Western,process heat cement,2045,0.043318813
+127,Africa_Western,process heat cement,2050,0.0658946833
+128,Africa_Western,process heat cement,2055,0.0903691896
+129,Africa_Western,process heat cement,2060,0.11526720424
+130,Africa_Western,process heat cement,2065,0.1434338798
+131,Africa_Western,process heat cement,2070,0.17662580760000002
+132,Africa_Western,process heat cement,2075,0.214164153
+133,Africa_Western,process heat cement,2080,0.255496417
+134,Africa_Western,process heat cement,2085,0.29953152400000005
+135,Africa_Western,process heat cement,2090,0.342953521
+136,Africa_Western,process heat cement,2095,0.383358547
+137,Africa_Western,process heat cement,2100,0.41975168
+138,Africa_Western,trn_aviation_intl,2035,3.3001e-08
+139,Africa_Western,trn_aviation_intl,2040,8.82972e-07
+140,Africa_Western,trn_aviation_intl,2045,1.72946e-05
+141,Africa_Western,trn_aviation_intl,2050,0.000248812
+142,Africa_Western,trn_aviation_intl,2055,0.000609636
+143,Africa_Western,trn_aviation_intl,2060,0.00140314
+144,Africa_Western,trn_aviation_intl,2065,0.00299181
+145,Africa_Western,trn_aviation_intl,2070,0.00607754
+146,Africa_Western,trn_aviation_intl,2075,0.0104552
+147,Africa_Western,trn_aviation_intl,2080,0.0156682
+148,Africa_Western,trn_aviation_intl,2085,0.0228529
+149,Africa_Western,trn_aviation_intl,2090,0.0330765
+150,Africa_Western,trn_aviation_intl,2095,0.0483574
+151,Africa_Western,trn_aviation_intl,2100,0.0726921
+152,Africa_Western,trn_freight,2025,9.47584e-05
+153,Africa_Western,trn_freight,2030,0.000407643
+154,Africa_Western,trn_freight,2035,0.00092716294
+155,Africa_Western,trn_freight,2040,0.001355092
+156,Africa_Western,trn_freight,2045,0.0017274069999999998
+157,Africa_Western,trn_freight,2050,0.00218478
+158,Africa_Western,trn_freight,2055,0.0027385919999999998
+159,Africa_Western,trn_freight,2060,0.003389264
+160,Africa_Western,trn_freight,2065,0.0041695
+161,Africa_Western,trn_freight,2070,0.00519817
+162,Africa_Western,trn_freight,2075,0.00597213
+163,Africa_Western,trn_freight,2080,0.00644155
+164,Africa_Western,trn_freight,2085,0.00683789
+165,Africa_Western,trn_freight,2090,0.00716486
+166,Africa_Western,trn_freight,2095,0.00745981
+167,Africa_Western,trn_freight,2100,0.00787659
+168,Africa_Western,trn_freight_road,2025,0.00026263722300000006
+169,Africa_Western,trn_freight_road,2030,0.0028277784389999995
+170,Africa_Western,trn_freight_road,2035,0.015226713461
+171,Africa_Western,trn_freight_road,2040,0.036390354536700004
+172,Africa_Western,trn_freight_road,2045,0.06225550005
+173,Africa_Western,trn_freight_road,2050,0.09055700979999998
+174,Africa_Western,trn_freight_road,2055,0.1159688625
+175,Africa_Western,trn_freight_road,2060,0.140910465
+176,Africa_Western,trn_freight_road,2065,0.16969504300000002
+177,Africa_Western,trn_freight_road,2070,0.206333208
+178,Africa_Western,trn_freight_road,2075,0.248003653
+179,Africa_Western,trn_freight_road,2080,0.29093264900000004
+180,Africa_Western,trn_freight_road,2085,0.33497835
+181,Africa_Western,trn_freight_road,2090,0.38019108999999995
+182,Africa_Western,trn_freight_road,2095,0.4272318
+183,Africa_Western,trn_freight_road,2100,0.47122611
+184,Africa_Western,trn_pass,2035,0.000135623
+185,Africa_Western,trn_pass,2040,0.000613595
+186,Africa_Western,trn_pass,2045,0.00256756
+187,Africa_Western,trn_pass,2050,0.00947286
+188,Africa_Western,trn_pass,2055,0.0227718
+189,Africa_Western,trn_pass,2060,0.0485877
+190,Africa_Western,trn_pass,2065,0.0903997
+191,Africa_Western,trn_pass,2070,0.149548
+192,Africa_Western,trn_pass,2075,0.209475
+193,Africa_Western,trn_pass,2080,0.262806
+194,Africa_Western,trn_pass,2085,0.316305
+195,Africa_Western,trn_pass,2090,0.369547
+196,Africa_Western,trn_pass,2095,0.422238
+197,Africa_Western,trn_pass,2100,0.474556
+198,Africa_Western,trn_pass_road,2025,0.000698181
+199,Africa_Western,trn_pass_road,2030,0.00313979
+200,Africa_Western,trn_pass_road,2035,0.00816182
+201,Africa_Western,trn_pass_road,2040,0.011067
+202,Africa_Western,trn_pass_road,2045,0.0110009
+203,Africa_Western,trn_pass_road,2050,0.0100695
+204,Africa_Western,trn_pass_road,2055,0.00908236
+205,Africa_Western,trn_pass_road,2060,0.00835398
+206,Africa_Western,trn_pass_road,2065,0.00773113
+207,Africa_Western,trn_pass_road,2070,0.00709023
+208,Africa_Western,trn_pass_road,2075,0.00650873
+209,Africa_Western,trn_pass_road,2080,0.00597577
+210,Africa_Western,trn_pass_road,2085,0.00573141
+211,Africa_Western,trn_pass_road,2090,0.0056046
+212,Africa_Western,trn_pass_road,2095,0.00545535
+213,Africa_Western,trn_pass_road,2100,0.00517252
+214,Africa_Western,trn_pass_road_LDV_4W,2025,5.0770043e-05
+215,Africa_Western,trn_pass_road_LDV_4W,2030,0.0009357326419999999
+216,Africa_Western,trn_pass_road_LDV_4W,2035,0.001907483102
+217,Africa_Western,trn_pass_road_LDV_4W,2040,0.003083802386
+218,Africa_Western,trn_pass_road_LDV_4W,2045,0.004453724932
+219,Africa_Western,trn_pass_road_LDV_4W,2050,0.0058963925800000015
+220,Africa_Western,trn_pass_road_LDV_4W,2055,0.00732390291
+221,Africa_Western,trn_pass_road_LDV_4W,2060,0.00871179352
+222,Africa_Western,trn_pass_road_LDV_4W,2065,0.010192822739999998
+223,Africa_Western,trn_pass_road_LDV_4W,2070,0.012158600600000001
+224,Africa_Western,trn_pass_road_LDV_4W,2075,0.0145620276
+225,Africa_Western,trn_pass_road_LDV_4W,2080,0.017206380700000003
+226,Africa_Western,trn_pass_road_LDV_4W,2085,0.020026831400000004
+227,Africa_Western,trn_pass_road_LDV_4W,2090,0.023200586999999998
+228,Africa_Western,trn_pass_road_LDV_4W,2095,0.027024029299999995
+229,Africa_Western,trn_pass_road_LDV_4W,2100,0.0318534051
+230,Africa_Western,trn_shipping_intl,2035,1.74864e-05
+231,Africa_Western,trn_shipping_intl,2040,7.43751e-05
+232,Africa_Western,trn_shipping_intl,2045,0.000336414
+233,Africa_Western,trn_shipping_intl,2050,0.00126005
+234,Africa_Western,trn_shipping_intl,2055,0.00265436
+235,Africa_Western,trn_shipping_intl,2060,0.00477028
+236,Africa_Western,trn_shipping_intl,2065,0.0084106
+237,Africa_Western,trn_shipping_intl,2070,0.0173787
+238,Africa_Western,trn_shipping_intl,2075,0.031017
+239,Africa_Western,trn_shipping_intl,2080,0.0474834
+240,Africa_Western,trn_shipping_intl,2085,0.0728612
+241,Africa_Western,trn_shipping_intl,2090,0.106442
+242,Africa_Western,trn_shipping_intl,2095,0.143028
+243,Africa_Western,trn_shipping_intl,2100,0.175039
+244,Brazil,N fertilizer,2025,0.000141198
+245,Brazil,N fertilizer,2030,0.000582231
+246,Brazil,N fertilizer,2035,0.002189644
+247,Brazil,N fertilizer,2040,0.005339311
+248,Brazil,N fertilizer,2045,0.0089904946
+249,Brazil,N fertilizer,2050,0.0116237142
+250,Brazil,N fertilizer,2055,0.01421784953
+251,Brazil,N fertilizer,2060,0.01644859223
+252,Brazil,N fertilizer,2065,0.019731489310000003
+253,Brazil,N fertilizer,2070,0.0235304247
+254,Brazil,N fertilizer,2075,0.025884272799999997
+255,Brazil,N fertilizer,2080,0.0268674049
+256,Brazil,N fertilizer,2085,0.026589746200000004
+257,Brazil,N fertilizer,2090,0.0248076697
+258,Brazil,N fertilizer,2095,0.0223352385
+259,Brazil,N fertilizer,2100,0.019298647699999998
+260,Brazil,agricultural energy use,2025,0.00177856
+261,Brazil,agricultural energy use,2030,0.00607149
+262,Brazil,agricultural energy use,2035,0.011452872999999999
+263,Brazil,agricultural energy use,2040,0.015041759000000002
+264,Brazil,agricultural energy use,2045,0.018094586
+265,Brazil,agricultural energy use,2050,0.01978999
+266,Brazil,agricultural energy use,2055,0.020454220000000002
+267,Brazil,agricultural energy use,2060,0.02113565
+268,Brazil,agricultural energy use,2065,0.02223799
+269,Brazil,agricultural energy use,2070,0.0233169
+270,Brazil,agricultural energy use,2075,0.02404993
+271,Brazil,agricultural energy use,2080,0.02458075
+272,Brazil,agricultural energy use,2085,0.02502387
+273,Brazil,agricultural energy use,2090,0.02545828
+274,Brazil,agricultural energy use,2095,0.02602835
+275,Brazil,agricultural energy use,2100,0.0266128
+276,Brazil,chemical energy use,2055,0.00205909
+277,Brazil,chemical energy use,2060,0.00504088
+278,Brazil,chemical energy use,2065,0.00862751
+279,Brazil,chemical energy use,2070,0.011878310000000001
+280,Brazil,chemical energy use,2075,0.01446534
+281,Brazil,chemical energy use,2080,0.016713846999999997
+282,Brazil,chemical energy use,2085,0.0186902633
+283,Brazil,chemical energy use,2090,0.020413025799999998
+284,Brazil,chemical energy use,2095,0.0223701268
+285,Brazil,chemical energy use,2100,0.0249486911
+286,Brazil,comm heating,2025,1.48386e-07
+287,Brazil,comm heating,2030,2.01238e-06
+288,Brazil,comm heating,2035,6.12213e-06
+289,Brazil,comm heating,2040,7.95675e-06
+290,Brazil,comm heating,2045,8.27375e-06
+291,Brazil,comm heating,2050,1.00521e-05
+292,Brazil,comm heating,2055,1.30918e-05
+293,Brazil,comm heating,2060,2.06689e-05
+294,Brazil,comm heating,2065,3.4023e-05
+295,Brazil,comm heating,2070,4.43403e-05
+296,Brazil,comm heating,2075,5.00729e-05
+297,Brazil,comm heating,2080,5.98413e-05
+298,Brazil,comm heating,2085,7.09682e-05
+299,Brazil,comm heating,2090,8.53753e-05
+300,Brazil,comm heating,2095,0.000106787
+301,Brazil,comm heating,2100,0.000128412
+302,Brazil,comm others,2025,1.91009e-06
+303,Brazil,comm others,2030,2.42031e-05
+304,Brazil,comm others,2035,7.28941e-05
+305,Brazil,comm others,2040,9.75316e-05
+306,Brazil,comm others,2045,0.000105691
+307,Brazil,comm others,2050,0.000133367
+308,Brazil,comm others,2055,0.0001791
+309,Brazil,comm others,2060,0.000287704
+310,Brazil,comm others,2065,0.00047987
+311,Brazil,comm others,2070,0.000639961
+312,Brazil,comm others,2075,0.000745429
+313,Brazil,comm others,2080,0.000912084
+314,Brazil,comm others,2085,0.00110509
+315,Brazil,comm others,2090,0.00136046
+316,Brazil,comm others,2095,0.00173677
+317,Brazil,comm others,2100,0.00211273
+318,Brazil,construction energy use,2025,4.7911e-05
+319,Brazil,construction energy use,2030,0.0001703888
+320,Brazil,construction energy use,2035,0.0003838385
+321,Brazil,construction energy use,2040,0.0006618270799999999
+322,Brazil,construction energy use,2045,0.0009585555
+323,Brazil,construction energy use,2050,0.0012461522
+324,Brazil,construction energy use,2055,0.0014783220999999998
+325,Brazil,construction energy use,2060,0.0016779833000000002
+326,Brazil,construction energy use,2065,0.001868441
+327,Brazil,construction energy use,2070,0.0020421040000000003
+328,Brazil,construction energy use,2075,0.0021939100000000003
+329,Brazil,construction energy use,2080,0.0023304069999999996
+330,Brazil,construction energy use,2085,0.0024546240000000003
+331,Brazil,construction energy use,2090,0.002566122
+332,Brazil,construction energy use,2095,0.002673196
+333,Brazil,construction energy use,2100,0.0027758369999999997
+334,Brazil,iron and steel,2025,0.0009158884
+335,Brazil,iron and steel,2030,0.0023429999
+336,Brazil,iron and steel,2035,0.0037029205
+337,Brazil,iron and steel,2040,0.00430947377
+338,Brazil,iron and steel,2045,0.004445185
+339,Brazil,iron and steel,2050,0.0042896315
+340,Brazil,iron and steel,2055,0.004223835
+341,Brazil,iron and steel,2060,0.0044520181999999995
+342,Brazil,iron and steel,2065,0.005191642
+343,Brazil,iron and steel,2070,0.006160328
+344,Brazil,iron and steel,2075,0.007021647000000001
+345,Brazil,iron and steel,2080,0.007875492000000001
+346,Brazil,iron and steel,2085,0.0088402593
+347,Brazil,iron and steel,2090,0.0101664495
+348,Brazil,iron and steel,2095,0.012409521100000001
+349,Brazil,iron and steel,2100,0.015842936699999997
+350,Brazil,mining energy use,2025,0.000357453
+351,Brazil,mining energy use,2030,0.001224352
+352,Brazil,mining energy use,2035,0.002314453
+353,Brazil,mining energy use,2040,0.0031037803999999997
+354,Brazil,mining energy use,2045,0.00388644
+355,Brazil,mining energy use,2050,0.004421329
+356,Brazil,mining energy use,2055,0.0046654999999999995
+357,Brazil,mining energy use,2060,0.0048049899999999994
+358,Brazil,mining energy use,2065,0.004939791
+359,Brazil,mining energy use,2070,0.005038713
+360,Brazil,mining energy use,2075,0.005084055
+361,Brazil,mining energy use,2080,0.005094447
+362,Brazil,mining energy use,2085,0.00508973
+363,Brazil,mining energy use,2090,0.005075120000000001
+364,Brazil,mining energy use,2095,0.005069637
+365,Brazil,mining energy use,2100,0.005068389999999999
+366,Brazil,other industrial energy use,2025,0.00040585199999999995
+367,Brazil,other industrial energy use,2030,0.0027982
+368,Brazil,other industrial energy use,2035,0.010793005999999999
+369,Brazil,other industrial energy use,2040,0.0202878732
+370,Brazil,other industrial energy use,2045,0.026510754199999997
+371,Brazil,other industrial energy use,2050,0.0317500597
+372,Brazil,other industrial energy use,2055,0.03878690001
+373,Brazil,other industrial energy use,2060,0.050796548309999995
+374,Brazil,other industrial energy use,2065,0.070610914
+375,Brazil,other industrial energy use,2070,0.0941975539
+376,Brazil,other industrial energy use,2075,0.1200673511
+377,Brazil,other industrial energy use,2080,0.15212279069999998
+378,Brazil,other industrial energy use,2085,0.1896949709
+379,Brazil,other industrial energy use,2090,0.23500447070000002
+380,Brazil,other industrial energy use,2095,0.3055313692
+381,Brazil,other industrial energy use,2100,0.426372027
+382,Brazil,process heat cement,2025,1.94797e-05
+383,Brazil,process heat cement,2030,0.00024919500099999996
+384,Brazil,process heat cement,2035,0.0010551039300000001
+385,Brazil,process heat cement,2040,0.00159509516
+386,Brazil,process heat cement,2045,0.00154887135
+387,Brazil,process heat cement,2050,0.002320732875
+388,Brazil,process heat cement,2055,0.004677305199
+389,Brazil,process heat cement,2060,0.008766772691000001
+390,Brazil,process heat cement,2065,0.01498097578
+391,Brazil,process heat cement,2070,0.0216094202
+392,Brazil,process heat cement,2075,0.0298736946
+393,Brazil,process heat cement,2080,0.042668799
+394,Brazil,process heat cement,2085,0.0592159796
+395,Brazil,process heat cement,2090,0.0767064136
+396,Brazil,process heat cement,2095,0.0962127298
+397,Brazil,process heat cement,2100,0.1201795453
+398,Brazil,resid heating,2025,1.47954e-07
+399,Brazil,resid heating,2030,2.10285e-06
+400,Brazil,resid heating,2035,6.39102e-06
+401,Brazil,resid heating,2040,8.38023e-06
+402,Brazil,resid heating,2045,9.04886e-06
+403,Brazil,resid heating,2050,1.1437e-05
+404,Brazil,resid heating,2055,1.58579e-05
+405,Brazil,resid heating,2060,2.70392e-05
+406,Brazil,resid heating,2065,4.78932e-05
+407,Brazil,resid heating,2070,6.6618e-05
+408,Brazil,resid heating,2075,8.04045e-05
+409,Brazil,resid heating,2080,0.000102331
+410,Brazil,resid heating,2085,0.000129198
+411,Brazil,resid heating,2090,0.000165266
+412,Brazil,resid heating,2095,0.000219029
+413,Brazil,resid heating,2100,0.000278156
+414,Brazil,resid others,2025,6.16338e-06
+415,Brazil,resid others,2030,7.71504e-05
+416,Brazil,resid others,2035,0.000225593
+417,Brazil,resid others,2040,0.000292215
+418,Brazil,resid others,2045,0.000306513
+419,Brazil,resid others,2050,0.000374323
+420,Brazil,resid others,2055,0.000487013
+421,Brazil,resid others,2060,0.000759153
+422,Brazil,resid others,2065,0.00123151
+423,Brazil,resid others,2070,0.00160277
+424,Brazil,resid others,2075,0.00182537
+425,Brazil,resid others,2080,0.00219101
+426,Brazil,resid others,2085,0.00261165
+427,Brazil,resid others,2090,0.00317048
+428,Brazil,resid others,2095,0.00400248
+429,Brazil,resid others,2100,0.00482971
+430,Brazil,trn_aviation_intl,2035,5.53702e-08
+431,Brazil,trn_aviation_intl,2040,1.09058e-06
+432,Brazil,trn_aviation_intl,2045,1.58568e-05
+433,Brazil,trn_aviation_intl,2050,0.000182071
+434,Brazil,trn_aviation_intl,2055,0.000395477
+435,Brazil,trn_aviation_intl,2060,0.000863979
+436,Brazil,trn_aviation_intl,2065,0.0017219
+437,Brazil,trn_aviation_intl,2070,0.00283155
+438,Brazil,trn_aviation_intl,2075,0.00402671
+439,Brazil,trn_aviation_intl,2080,0.00545599
+440,Brazil,trn_aviation_intl,2085,0.00720938
+441,Brazil,trn_aviation_intl,2090,0.00966652
+442,Brazil,trn_aviation_intl,2095,0.0135461
+443,Brazil,trn_aviation_intl,2100,0.019461
+444,Brazil,trn_freight,2025,0.00069937
+445,Brazil,trn_freight,2030,0.00272745
+446,Brazil,trn_freight,2035,0.0055906619
+447,Brazil,trn_freight,2040,0.007383982
+448,Brazil,trn_freight,2045,0.008517653
+449,Brazil,trn_freight,2050,0.009630869
+450,Brazil,trn_freight,2055,0.010703731
+451,Brazil,trn_freight,2060,0.01223167
+452,Brazil,trn_freight,2065,0.01426143
+453,Brazil,trn_freight,2070,0.01634261
+454,Brazil,trn_freight,2075,0.01839669
+455,Brazil,trn_freight,2080,0.021141590000000002
+456,Brazil,trn_freight,2085,0.024526
+457,Brazil,trn_freight,2090,0.0288855
+458,Brazil,trn_freight,2095,0.034751699999999996
+459,Brazil,trn_freight,2100,0.0410656
+460,Brazil,trn_freight_road,2025,0.00019626812000000002
+461,Brazil,trn_freight_road,2030,0.0016011093199999999
+462,Brazil,trn_freight_road,2035,0.00729211957
+463,Brazil,trn_freight_road,2040,0.013841118324
+464,Brazil,trn_freight_road,2045,0.0203471703
+465,Brazil,trn_freight_road,2050,0.027573438999999998
+466,Brazil,trn_freight_road,2055,0.03485192
+467,Brazil,trn_freight_road,2060,0.043956847
+468,Brazil,trn_freight_road,2065,0.05754739999999999
+469,Brazil,trn_freight_road,2070,0.07466888
+470,Brazil,trn_freight_road,2075,0.09496883
+471,Brazil,trn_freight_road,2080,0.12091049000000001
+472,Brazil,trn_freight_road,2085,0.15571904
+473,Brazil,trn_freight_road,2090,0.20558561
+474,Brazil,trn_freight_road,2095,0.27965673
+475,Brazil,trn_freight_road,2100,0.37273192
+476,Brazil,trn_pass,2035,0.000161688
+477,Brazil,trn_pass,2040,0.000507176
+478,Brazil,trn_pass,2045,0.00148308
+479,Brazil,trn_pass,2050,0.00415012
+480,Brazil,trn_pass,2055,0.0084454
+481,Brazil,trn_pass,2060,0.0165885
+482,Brazil,trn_pass,2065,0.028593
+483,Brazil,trn_pass,2070,0.0400314
+484,Brazil,trn_pass,2075,0.0487696
+485,Brazil,trn_pass,2080,0.0572359
+486,Brazil,trn_pass,2085,0.0651218
+487,Brazil,trn_pass,2090,0.0736026
+488,Brazil,trn_pass,2095,0.0838624
+489,Brazil,trn_pass,2100,0.0932762
+490,Brazil,trn_pass_road,2025,0.00155886
+491,Brazil,trn_pass_road,2030,0.00603338
+492,Brazil,trn_pass_road,2035,0.0147755
+493,Brazil,trn_pass_road,2040,0.019339
+494,Brazil,trn_pass_road,2045,0.0194289
+495,Brazil,trn_pass_road,2050,0.0185649
+496,Brazil,trn_pass_road,2055,0.0178753
+497,Brazil,trn_pass_road,2060,0.0174511
+498,Brazil,trn_pass_road,2065,0.0168901
+499,Brazil,trn_pass_road,2070,0.0158396
+500,Brazil,trn_pass_road,2075,0.0148031
+501,Brazil,trn_pass_road,2080,0.0138345
+502,Brazil,trn_pass_road,2085,0.0133281
+503,Brazil,trn_pass_road,2090,0.0129176
+504,Brazil,trn_pass_road,2095,0.0123598
+505,Brazil,trn_pass_road,2100,0.011434
+506,Brazil,trn_pass_road_LDV_4W,2025,0.005443123
+507,Brazil,trn_pass_road_LDV_4W,2030,0.03004423
+508,Brazil,trn_pass_road_LDV_4W,2035,0.049124545
+509,Brazil,trn_pass_road_LDV_4W,2040,0.066398446
+510,Brazil,trn_pass_road_LDV_4W,2045,0.07667696299999999
+511,Brazil,trn_pass_road_LDV_4W,2050,0.083955522
+512,Brazil,trn_pass_road_LDV_4W,2055,0.088363233
+513,Brazil,trn_pass_road_LDV_4W,2060,0.091625423
+514,Brazil,trn_pass_road_LDV_4W,2065,0.09436624299999997
+515,Brazil,trn_pass_road_LDV_4W,2070,0.09654979400000002
+516,Brazil,trn_pass_road_LDV_4W,2075,0.09763257999999998
+517,Brazil,trn_pass_road_LDV_4W,2080,0.09826531
+518,Brazil,trn_pass_road_LDV_4W,2085,0.09779363
+519,Brazil,trn_pass_road_LDV_4W,2090,0.09667355999999999
+520,Brazil,trn_pass_road_LDV_4W,2095,0.09585771
+521,Brazil,trn_pass_road_LDV_4W,2100,0.09544893
+522,Brazil,trn_shipping_intl,2035,3.75057e-05
+523,Brazil,trn_shipping_intl,2040,0.000130943
+524,Brazil,trn_shipping_intl,2045,0.000487772
+525,Brazil,trn_shipping_intl,2050,0.00171753
+526,Brazil,trn_shipping_intl,2055,0.00388498
+527,Brazil,trn_shipping_intl,2060,0.00805502
+528,Brazil,trn_shipping_intl,2065,0.0148021
+529,Brazil,trn_shipping_intl,2070,0.0227974
+530,Brazil,trn_shipping_intl,2075,0.0326806
+531,Brazil,trn_shipping_intl,2080,0.0483442
+532,Brazil,trn_shipping_intl,2085,0.0727372
+533,Brazil,trn_shipping_intl,2090,0.110149
+534,Brazil,trn_shipping_intl,2095,0.160652
+535,Brazil,trn_shipping_intl,2100,0.208387
+536,China,N fertilizer,2025,0.00190922
+537,China,N fertilizer,2030,0.01740407
+538,China,N fertilizer,2035,0.06683973
+539,China,N fertilizer,2040,0.13371592
+540,China,N fertilizer,2045,0.179398636
+541,China,N fertilizer,2050,0.212969475
+542,China,N fertilizer,2055,0.24583409309999998
+543,China,N fertilizer,2060,0.2793936093
+544,China,N fertilizer,2065,0.309676734
+545,China,N fertilizer,2070,0.32804223599999993
+546,China,N fertilizer,2075,0.33651052700000006
+547,China,N fertilizer,2080,0.339302937
+548,China,N fertilizer,2085,0.33651428399999994
+549,China,N fertilizer,2090,0.329904519
+550,China,N fertilizer,2095,0.323836989
+551,China,N fertilizer,2100,0.318906607
+552,China,agricultural energy use,2025,0.00423694
+553,China,agricultural energy use,2030,0.01606155
+554,China,agricultural energy use,2035,0.02928775
+555,China,agricultural energy use,2040,0.037293092
+556,China,agricultural energy use,2045,0.04476938
+557,China,agricultural energy use,2050,0.04862146
+558,China,agricultural energy use,2055,0.04914185
+559,China,agricultural energy use,2060,0.048736180000000004
+560,China,agricultural energy use,2065,0.0485989
+561,China,agricultural energy use,2070,0.04853768
+562,China,agricultural energy use,2075,0.04800769
+563,China,agricultural energy use,2080,0.04692064
+564,China,agricultural energy use,2085,0.04541829
+565,China,agricultural energy use,2090,0.04379123
+566,China,agricultural energy use,2095,0.04222257
+567,China,agricultural energy use,2100,0.040584010000000004
+568,China,chemical energy use,2055,0.00967363
+569,China,chemical energy use,2060,0.021620229999999997
+570,China,chemical energy use,2065,0.03384723
+571,China,chemical energy use,2070,0.04373381
+572,China,chemical energy use,2075,0.050236470000000005
+573,China,chemical energy use,2080,0.053864560000000006
+574,China,chemical energy use,2085,0.055425866
+575,China,chemical energy use,2090,0.055692350999999994
+576,China,chemical energy use,2095,0.055489600699999996
+577,China,chemical energy use,2100,0.05500172592
+578,China,comm heating,2025,0.000442609
+579,China,comm heating,2030,0.00567738
+580,China,comm heating,2035,0.010742
+581,China,comm heating,2040,0.0181738
+582,China,comm heating,2045,0.0250262
+583,China,comm heating,2050,0.0335075
+584,China,comm heating,2055,0.039702
+585,China,comm heating,2060,0.0561953
+586,China,comm heating,2065,0.0830544
+587,China,comm heating,2070,0.103522
+588,China,comm heating,2075,0.114729
+589,China,comm heating,2080,0.131407
+590,China,comm heating,2085,0.150062
+591,China,comm heating,2090,0.174388
+592,China,comm heating,2095,0.209496
+593,China,comm heating,2100,0.239871
+594,China,comm others,2025,0.000153432
+595,China,comm others,2030,0.00174135
+596,China,comm others,2035,0.00335516
+597,China,comm others,2040,0.00553828
+598,China,comm others,2045,0.00725229
+599,China,comm others,2050,0.0093388
+600,China,comm others,2055,0.0104307
+601,China,comm others,2060,0.0132285
+602,China,comm others,2065,0.0171938
+603,China,comm others,2070,0.019122
+604,China,comm others,2075,0.0193951
+605,China,comm others,2080,0.0206256
+606,China,comm others,2085,0.0219929
+607,China,comm others,2090,0.0241611
+608,China,comm others,2095,0.0279286
+609,China,comm others,2100,0.0310453
+610,China,construction energy use,2025,0.0025087
+611,China,construction energy use,2030,0.008797909999999999
+612,China,construction energy use,2035,0.0163587
+613,China,construction energy use,2040,0.021598976
+614,China,construction energy use,2045,0.02679418
+615,China,construction energy use,2050,0.030259759999999997
+616,China,construction energy use,2055,0.031160929999999996
+617,China,construction energy use,2060,0.03066138
+618,China,construction energy use,2065,0.029675470000000002
+619,China,construction energy use,2070,0.02846672
+620,China,construction energy use,2075,0.027209450000000003
+621,China,construction energy use,2080,0.0258881
+622,China,construction energy use,2085,0.024485970000000003
+623,China,construction energy use,2090,0.02310288
+624,China,construction energy use,2095,0.021788750000000003
+625,China,construction energy use,2100,0.020494659999999998
+626,China,iron and steel,2025,0.02928131
+627,China,iron and steel,2030,0.10614410999999999
+628,China,iron and steel,2035,0.1864298
+629,China,iron and steel,2040,0.24325765000000002
+630,China,iron and steel,2045,0.2850976
+631,China,iron and steel,2050,0.32259271
+632,China,iron and steel,2055,0.35883525
+633,China,iron and steel,2060,0.41487781
+634,China,iron and steel,2065,0.50583622
+635,China,iron and steel,2070,0.59589656
+636,China,iron and steel,2075,0.6543717
+637,China,iron and steel,2080,0.68723285
+638,China,iron and steel,2085,0.7001019900000001
+639,China,iron and steel,2090,0.7064515259999999
+640,China,iron and steel,2095,0.72321672
+641,China,iron and steel,2100,0.734760334
+642,China,mining energy use,2025,0.000778562
+643,China,mining energy use,2030,0.002921192
+644,China,mining energy use,2035,0.0053889839999999994
+645,China,mining energy use,2040,0.006988462
+646,China,mining energy use,2045,0.008631699999999999
+647,China,mining energy use,2050,0.009689051
+648,China,mining energy use,2055,0.010006772
+649,China,mining energy use,2060,0.009994263
+650,China,mining energy use,2065,0.009905027
+651,China,mining energy use,2070,0.009779732999999999
+652,China,mining energy use,2075,0.009600299
+653,China,mining energy use,2080,0.009337492
+654,China,mining energy use,2085,0.009014358
+655,China,mining energy use,2090,0.008665635
+656,China,mining energy use,2095,0.008311375999999999
+657,China,mining energy use,2100,0.007948992
+658,China,other industrial energy use,2025,0.000605602
+659,China,other industrial energy use,2030,0.0041392370000000005
+660,China,other industrial energy use,2035,0.0122726
+661,China,other industrial energy use,2040,0.023943492000000004
+662,China,other industrial energy use,2045,0.0327315852
+663,China,other industrial energy use,2050,0.0390181609
+664,China,other industrial energy use,2055,0.045490648499999994
+665,China,other industrial energy use,2060,0.05457174575
+666,China,other industrial energy use,2065,0.0662032828
+667,China,other industrial energy use,2070,0.0768903933
+668,China,other industrial energy use,2075,0.0859398894
+669,China,other industrial energy use,2080,0.0950661157
+670,China,other industrial energy use,2085,0.10376747589999999
+671,China,other industrial energy use,2090,0.1121300834
+672,China,other industrial energy use,2095,0.121388572
+673,China,other industrial energy use,2100,0.131460831
+674,China,process heat cement,2040,0.0469505
+675,China,process heat cement,2045,0.0710588
+676,China,process heat cement,2050,0.07540089999999999
+677,China,process heat cement,2055,0.08011393
+678,China,process heat cement,2060,0.10918964
+679,China,process heat cement,2065,0.17396120999999998
+680,China,process heat cement,2070,0.22376668
+681,China,process heat cement,2075,0.24348366999999999
+682,China,process heat cement,2080,0.26502378
+683,China,process heat cement,2085,0.30540616350000005
+684,China,process heat cement,2090,0.352783001
+685,China,process heat cement,2095,0.387023391
+686,China,process heat cement,2100,0.40785874
+687,China,resid heating,2025,0.00119493
+688,China,resid heating,2030,0.0163291
+689,China,resid heating,2035,0.0329261
+690,China,resid heating,2040,0.0592649
+691,China,resid heating,2045,0.0860598
+692,China,resid heating,2050,0.12311
+693,China,resid heating,2055,0.154955
+694,China,resid heating,2060,0.235529
+695,China,resid heating,2065,0.378572
+696,China,resid heating,2070,0.503713
+697,China,resid heating,2075,0.595817
+698,China,resid heating,2080,0.729916
+699,China,resid heating,2085,0.888475
+700,China,resid heating,2090,1.08477
+701,China,resid heating,2095,1.33247
+702,China,resid heating,2100,1.53125
+703,China,resid others,2025,0.00111747
+704,China,resid others,2030,0.0124318
+705,China,resid others,2035,0.0232126
+706,China,resid others,2040,0.037313
+707,China,resid others,2045,0.0476858
+708,China,resid others,2050,0.0602324
+709,China,resid others,2055,0.0663072
+710,China,resid others,2060,0.0832366
+711,China,resid others,2065,0.107353
+712,China,resid others,2070,0.118554
+713,China,resid others,2075,0.119528
+714,China,resid others,2080,0.126456
+715,China,resid others,2085,0.134232
+716,China,resid others,2090,0.146781
+717,China,resid others,2095,0.168783
+718,China,resid others,2100,0.186546
+719,China,trn_aviation_intl,2035,3.49843e-07
+720,China,trn_aviation_intl,2040,7.15713e-06
+721,China,trn_aviation_intl,2045,0.000112371
+722,China,trn_aviation_intl,2050,0.00127251
+723,China,trn_aviation_intl,2055,0.00258552
+724,China,trn_aviation_intl,2060,0.00517024
+725,China,trn_aviation_intl,2065,0.00945389
+726,China,trn_aviation_intl,2070,0.0150935
+727,China,trn_aviation_intl,2075,0.0206963
+728,China,trn_aviation_intl,2080,0.0261076
+729,China,trn_aviation_intl,2085,0.0317556
+730,China,trn_aviation_intl,2090,0.0384805
+731,China,trn_aviation_intl,2095,0.0474933
+732,China,trn_aviation_intl,2100,0.0604931
+733,China,trn_freight,2025,0.0128716
+734,China,trn_freight,2030,0.0576676
+735,China,trn_freight,2035,0.13152466200000001
+736,China,trn_freight,2040,0.18277907
+737,China,trn_freight,2045,0.2150224
+738,China,trn_freight,2050,0.2445242
+739,China,trn_freight,2055,0.2694224
+740,China,trn_freight,2060,0.3031418
+741,China,trn_freight,2065,0.3418604
+742,China,trn_freight,2070,0.376348
+743,China,trn_freight,2075,0.39737
+744,China,trn_freight,2080,0.41588
+745,China,trn_freight,2085,0.432761
+746,China,trn_freight,2090,0.453665
+747,China,trn_freight,2095,0.484711
+748,China,trn_freight,2100,0.517309
+749,China,trn_freight_road,2025,0.0009803981600000002
+750,China,trn_freight_road,2030,0.00796897589
+751,China,trn_freight_road,2035,0.033366636930000006
+752,China,trn_freight_road,2040,0.06661096346799998
+753,China,trn_freight_road,2045,0.0971988625
+754,China,trn_freight_road,2050,0.1224990526
+755,China,trn_freight_road,2055,0.13930093600000001
+756,China,trn_freight_road,2060,0.151176387
+757,China,trn_freight_road,2065,0.16272545800000002
+758,China,trn_freight_road,2070,0.17521154799999997
+759,China,trn_freight_road,2075,0.18748345999999996
+760,China,trn_freight_road,2080,0.19980613
+761,China,trn_freight_road,2085,0.21206671
+762,China,trn_freight_road,2090,0.22670622999999998
+763,China,trn_freight_road,2095,0.24673456000000002
+764,China,trn_freight_road,2100,0.27347759
+765,China,trn_pass,2035,0.00231166
+766,China,trn_pass,2040,0.0079482
+767,China,trn_pass,2045,0.0263232
+768,China,trn_pass,2050,0.074787
+769,China,trn_pass,2055,0.142486
+770,China,trn_pass,2060,0.253015
+771,China,trn_pass,2065,0.389954
+772,China,trn_pass,2070,0.509958
+773,China,trn_pass,2075,0.580139
+774,China,trn_pass,2080,0.624271
+775,China,trn_pass,2085,0.648764
+776,China,trn_pass,2090,0.669413
+777,China,trn_pass,2095,0.696384
+778,China,trn_pass,2100,0.719492
+779,China,trn_pass_road,2025,0.0112572
+780,China,trn_pass_road,2030,0.0438335
+781,China,trn_pass_road,2035,0.105578
+782,China,trn_pass_road,2040,0.1363
+783,China,trn_pass_road,2045,0.133603
+784,China,trn_pass_road,2050,0.122955
+785,China,trn_pass_road,2055,0.116783
+786,China,trn_pass_road,2060,0.11213
+787,China,trn_pass_road,2065,0.107273
+788,China,trn_pass_road,2070,0.101072
+789,China,trn_pass_road,2075,0.0950748
+790,China,trn_pass_road,2080,0.0890948
+791,China,trn_pass_road,2085,0.0847873
+792,China,trn_pass_road,2090,0.0809278
+793,China,trn_pass_road,2095,0.0764708
+794,China,trn_pass_road,2100,0.0706833
+795,China,trn_pass_road_LDV_4W,2025,0.0020661038
+796,China,trn_pass_road_LDV_4W,2030,0.013819229499999999
+797,China,trn_pass_road_LDV_4W,2035,0.0215936899
+798,China,trn_pass_road_LDV_4W,2040,0.0281141239
+799,China,trn_pass_road_LDV_4W,2045,0.031140302110000004
+800,China,trn_pass_road_LDV_4W,2050,0.03188412220000001
+801,China,trn_pass_road_LDV_4W,2055,0.032794540500000004
+802,China,trn_pass_road_LDV_4W,2060,0.03317067409999999
+803,China,trn_pass_road_LDV_4W,2065,0.03361175099999999
+804,China,trn_pass_road_LDV_4W,2070,0.034730404599999994
+805,China,trn_pass_road_LDV_4W,2075,0.035769472000000004
+806,China,trn_pass_road_LDV_4W,2080,0.03670853749999999
+807,China,trn_pass_road_LDV_4W,2085,0.036473469
+808,China,trn_pass_road_LDV_4W,2090,0.03586587299999999
+809,China,trn_pass_road_LDV_4W,2095,0.035571794000000004
+810,China,trn_pass_road_LDV_4W,2100,0.035984471999999997
+811,China,trn_shipping_intl,2035,0.000244085
+812,China,trn_shipping_intl,2040,0.000957922
+813,China,trn_shipping_intl,2045,0.00444715
+814,China,trn_shipping_intl,2050,0.0162795
+815,China,trn_shipping_intl,2055,0.033597
+816,China,trn_shipping_intl,2060,0.061784
+817,China,trn_shipping_intl,2065,0.102886
+818,China,trn_shipping_intl,2070,0.160537
+819,China,trn_shipping_intl,2075,0.226148
+820,China,trn_shipping_intl,2080,0.303338
+821,China,trn_shipping_intl,2085,0.401864
+822,China,trn_shipping_intl,2090,0.521301
+823,China,trn_shipping_intl,2095,0.653305
+824,China,trn_shipping_intl,2100,0.773979
+825,India,N fertilizer,2025,0.000551546
+826,India,N fertilizer,2030,0.005259309
+827,India,N fertilizer,2035,0.021756496
+828,India,N fertilizer,2040,0.046569872
+829,India,N fertilizer,2045,0.069859958
+830,India,N fertilizer,2050,0.0920457957
+831,India,N fertilizer,2055,0.11149947
+832,India,N fertilizer,2060,0.13087314067
+833,India,N fertilizer,2065,0.1504007655
+834,India,N fertilizer,2070,0.168781118
+835,India,N fertilizer,2075,0.18653569400000003
+836,India,N fertilizer,2080,0.204694823
+837,India,N fertilizer,2085,0.22250974599999998
+838,India,N fertilizer,2090,0.237807579
+839,India,N fertilizer,2095,0.24905365499999998
+840,India,N fertilizer,2100,0.254552319
+841,India,agricultural energy use,2025,0.00306454
+842,India,agricultural energy use,2030,0.01157274
+843,India,agricultural energy use,2035,0.02255824
+844,India,agricultural energy use,2040,0.031481004
+845,India,agricultural energy use,2045,0.03988809
+846,India,agricultural energy use,2050,0.04519636
+847,India,agricultural energy use,2055,0.04652161
+848,India,agricultural energy use,2060,0.04603635
+849,India,agricultural energy use,2065,0.04508453
+850,India,agricultural energy use,2070,0.04428889
+851,India,agricultural energy use,2075,0.04340863
+852,India,agricultural energy use,2080,0.042220579999999994
+853,India,agricultural energy use,2085,0.04082239
+854,India,agricultural energy use,2090,0.03936705
+855,India,agricultural energy use,2095,0.03798487
+856,India,agricultural energy use,2100,0.03669416
+857,India,chemical energy use,2055,0.000517658
+858,India,chemical energy use,2060,0.0011393269999999999
+859,India,chemical energy use,2065,0.001795723
+860,India,chemical energy use,2070,0.00240796
+861,India,chemical energy use,2075,0.002893194
+862,India,chemical energy use,2080,0.003255632
+863,India,chemical energy use,2085,0.0035394529999999997
+864,India,chemical energy use,2090,0.00374508122
+865,India,chemical energy use,2095,0.00391010124
+866,India,chemical energy use,2100,0.00406976503
+867,India,comm others,2025,3.25983e-05
+868,India,comm others,2030,0.000444617
+869,India,comm others,2035,0.000918463
+870,India,comm others,2040,0.0014671
+871,India,comm others,2045,0.00200296
+872,India,comm others,2050,0.0026311
+873,India,comm others,2055,0.00280612
+874,India,comm others,2060,0.00305017
+875,India,comm others,2065,0.00336961
+876,India,comm others,2070,0.00378023
+877,India,comm others,2075,0.0042052
+878,India,comm others,2080,0.00470367
+879,India,comm others,2085,0.00526089
+880,India,comm others,2090,0.00583763
+881,India,comm others,2095,0.00641515
+882,India,comm others,2100,0.00701987
+883,India,construction energy use,2025,0.000225786
+884,India,construction energy use,2030,0.000811612
+885,India,construction energy use,2035,0.001720394
+886,India,construction energy use,2040,0.0027464400999999998
+887,India,construction energy use,2045,0.003856696
+888,India,construction energy use,2050,0.004886275
+889,India,construction energy use,2055,0.005591773
+890,India,construction energy use,2060,0.0060411430000000006
+891,India,construction energy use,2065,0.006343174
+892,India,construction energy use,2070,0.006575879
+893,India,construction energy use,2075,0.006782573
+894,India,construction energy use,2080,0.006927320999999999
+895,India,construction energy use,2085,0.00700661
+896,India,construction energy use,2090,0.007035309
+897,India,construction energy use,2095,0.007023185
+898,India,construction energy use,2100,0.006996459
+899,India,iron and steel,2025,0.00201488
+900,India,iron and steel,2030,0.004525541
+901,India,iron and steel,2035,0.005506622
+902,India,iron and steel,2040,0.0058247301
+903,India,iron and steel,2045,0.005997179
+904,India,iron and steel,2050,0.0062307054
+905,India,iron and steel,2055,0.0065692231
+906,India,iron and steel,2060,0.0070585718999999995
+907,India,iron and steel,2065,0.00780584395
+908,India,iron and steel,2070,0.0088669257
+909,India,iron and steel,2075,0.010218262249999999
+910,India,iron and steel,2080,0.011771968924
+911,India,iron and steel,2085,0.013440341043000001
+912,India,iron and steel,2090,0.0151654187592
+913,India,iron and steel,2095,0.0169140368151
+914,India,iron and steel,2100,0.01862887693473
+915,India,mining energy use,2025,0.000518014
+916,India,mining energy use,2030,0.001904649
+917,India,mining energy use,2035,0.003736666
+918,India,mining energy use,2040,0.0053057391
+919,India,mining energy use,2045,0.006907478
+920,India,mining energy use,2050,0.008122568
+921,India,mining energy use,2055,0.00865399
+922,India,mining energy use,2060,0.008813024
+923,India,mining energy use,2065,0.008830338
+924,India,mining energy use,2070,0.008827522
+925,India,mining energy use,2075,0.008799293
+926,India,mining energy use,2080,0.008711084
+927,India,mining energy use,2085,0.008578699
+928,India,mining energy use,2090,0.008427321
+929,India,mining energy use,2095,0.00828562
+930,India,mining energy use,2100,0.008167975
+931,India,other industrial energy use,2025,0.0009092379999999999
+932,India,other industrial energy use,2030,0.006307429000000001
+933,India,other industrial energy use,2035,0.016289979
+934,India,other industrial energy use,2040,0.028976761
+935,India,other industrial energy use,2045,0.040403682
+936,India,other industrial energy use,2050,0.0502004264
+937,India,other industrial energy use,2055,0.0579000017
+938,India,other industrial energy use,2060,0.06399087927
+939,India,other industrial energy use,2065,0.06907853430000001
+940,India,other industrial energy use,2070,0.0738185263
+941,India,other industrial energy use,2075,0.07867309129999998
+942,India,other industrial energy use,2080,0.0838028646
+943,India,other industrial energy use,2085,0.0890792946
+944,India,other industrial energy use,2090,0.09404427999999998
+945,India,other industrial energy use,2095,0.0983686089
+946,India,other industrial energy use,2100,0.10194899390000002
+947,India,process heat cement,2025,0.000109543
+948,India,process heat cement,2030,0.0016717275000000002
+949,India,process heat cement,2035,0.006443887299999999
+950,India,process heat cement,2040,0.0132405519
+951,India,process heat cement,2045,0.019172515600000002
+952,India,process heat cement,2050,0.029403233600000002
+953,India,process heat cement,2055,0.04376045307
+954,India,process heat cement,2060,0.063009555389
+955,India,process heat cement,2065,0.0845227127
+956,India,process heat cement,2070,0.1057745434
+957,India,process heat cement,2075,0.128227079
+958,India,process heat cement,2080,0.156899535
+959,India,process heat cement,2085,0.192451462
+960,India,process heat cement,2090,0.23005488400000002
+961,India,process heat cement,2095,0.265779871
+962,India,process heat cement,2100,0.30015489
+963,India,resid others,2025,2.35619e-05
+964,India,resid others,2030,0.000307273
+965,India,resid others,2035,0.000615724
+966,India,resid others,2040,0.000951564
+967,India,resid others,2045,0.00124594
+968,India,resid others,2050,0.0015546
+969,India,resid others,2055,0.0015634
+970,India,resid others,2060,0.0016004
+971,India,resid others,2065,0.0016696
+972,India,resid others,2070,0.00178097
+973,India,resid others,2075,0.00189794
+974,India,resid others,2080,0.00204702
+975,India,resid others,2085,0.00222108
+976,India,resid others,2090,0.00240387
+977,India,resid others,2095,0.00258886
+978,India,resid others,2100,0.00278918
+979,India,trn_aviation_intl,2035,1.03005e-07
+980,India,trn_aviation_intl,2040,2.47322e-06
+981,India,trn_aviation_intl,2045,4.34882e-05
+982,India,trn_aviation_intl,2050,0.000549911
+983,India,trn_aviation_intl,2055,0.00118866
+984,India,trn_aviation_intl,2060,0.00241386
+985,India,trn_aviation_intl,2065,0.00440867
+986,India,trn_aviation_intl,2070,0.00718556
+987,India,trn_aviation_intl,2075,0.0100841
+988,India,trn_aviation_intl,2080,0.0128871
+989,India,trn_aviation_intl,2085,0.0159684
+990,India,trn_aviation_intl,2090,0.0197287
+991,India,trn_aviation_intl,2095,0.0252269
+992,India,trn_aviation_intl,2100,0.0335745
+993,India,trn_freight,2025,0.00176362
+994,India,trn_freight,2030,0.00807531
+995,India,trn_freight,2035,0.0203626079
+996,India,trn_freight,2040,0.0299008436
+997,India,trn_freight,2045,0.035531778
+998,India,trn_freight,2050,0.039734315000000006
+999,India,trn_freight,2055,0.043100995
+1000,India,trn_freight,2060,0.04617227
+1001,India,trn_freight,2065,0.04870517
+1002,India,trn_freight,2070,0.050728930000000005
+1003,India,trn_freight,2075,0.05212603
+1004,India,trn_freight,2080,0.05311361
+1005,India,trn_freight,2085,0.05381608
+1006,India,trn_freight,2090,0.054254180000000006
+1007,India,trn_freight,2095,0.05446685
+1008,India,trn_freight,2100,0.054647850000000005
+1009,India,trn_freight_road,2025,0.0039617994
+1010,India,trn_freight_road,2030,0.0247506651
+1011,India,trn_freight_road,2035,0.08911477171999999
+1012,India,trn_freight_road,2040,0.15526753304000002
+1013,India,trn_freight_road,2045,0.2127471567
+1014,India,trn_freight_road,2050,0.248691988
+1015,India,trn_freight_road,2055,0.262132592
+1016,India,trn_freight_road,2060,0.26725447
+1017,India,trn_freight_road,2065,0.27101919
+1018,India,trn_freight_road,2070,0.27614081
+1019,India,trn_freight_road,2075,0.28001146
+1020,India,trn_freight_road,2080,0.28199735000000004
+1021,India,trn_freight_road,2085,0.28353035999999987
+1022,India,trn_freight_road,2090,0.28548207
+1023,India,trn_freight_road,2095,0.28919767
+1024,India,trn_freight_road,2100,0.29330330000000004
+1025,India,trn_pass,2035,0.000472232
+1026,India,trn_pass,2040,0.00196138
+1027,India,trn_pass,2045,0.00750089
+1028,India,trn_pass,2050,0.0246191
+1029,India,trn_pass,2055,0.0518034
+1030,India,trn_pass,2060,0.0969002
+1031,India,trn_pass,2065,0.155129
+1032,India,trn_pass,2070,0.216272
+1033,India,trn_pass,2075,0.264533
+1034,India,trn_pass,2080,0.300646
+1035,India,trn_pass,2085,0.330556
+1036,India,trn_pass,2090,0.35783
+1037,India,trn_pass,2095,0.387161
+1038,India,trn_pass,2100,0.419045
+1039,India,trn_pass_road,2025,0.00198609
+1040,India,trn_pass_road,2030,0.00886278
+1041,India,trn_pass_road,2035,0.0239721
+1042,India,trn_pass_road,2040,0.0339218
+1043,India,trn_pass_road,2045,0.0354282
+1044,India,trn_pass_road,2050,0.0341317
+1045,India,trn_pass_road,2055,0.0330362
+1046,India,trn_pass_road,2060,0.0320382
+1047,India,trn_pass_road,2065,0.030768
+1048,India,trn_pass_road,2070,0.028909
+1049,India,trn_pass_road,2075,0.0269828
+1050,India,trn_pass_road,2080,0.0250521
+1051,India,trn_pass_road,2085,0.0236963
+1052,India,trn_pass_road,2090,0.0225331
+1053,India,trn_pass_road,2095,0.0212723
+1054,India,trn_pass_road,2100,0.0196762
+1055,India,trn_pass_road_LDV_4W,2025,3.7282077000000004e-05
+1056,India,trn_pass_road_LDV_4W,2030,0.00065416336
+1057,India,trn_pass_road_LDV_4W,2035,0.001282250615
+1058,India,trn_pass_road_LDV_4W,2040,0.0019606929110000003
+1059,India,trn_pass_road_LDV_4W,2045,0.002673022518
+1060,India,trn_pass_road_LDV_4W,2050,0.0032982923500000007
+1061,India,trn_pass_road_LDV_4W,2055,0.00397173321
+1062,India,trn_pass_road_LDV_4W,2060,0.004567485919999999
+1063,India,trn_pass_road_LDV_4W,2065,0.005117700139999999
+1064,India,trn_pass_road_LDV_4W,2070,0.005731509599999999
+1065,India,trn_pass_road_LDV_4W,2075,0.0063229817
+1066,India,trn_pass_road_LDV_4W,2080,0.00689378345
+1067,India,trn_pass_road_LDV_4W,2085,0.0073114456800000005
+1068,India,trn_pass_road_LDV_4W,2090,0.0076820091
+1069,India,trn_pass_road_LDV_4W,2095,0.008160264
+1070,India,trn_pass_road_LDV_4W,2100,0.0088705062
+1071,India,trn_shipping_intl,2035,4.07693e-05
+1072,India,trn_shipping_intl,2040,0.000170667
+1073,India,trn_shipping_intl,2045,0.000762788
+1074,India,trn_shipping_intl,2050,0.00271275
+1075,India,trn_shipping_intl,2055,0.0052128
+1076,India,trn_shipping_intl,2060,0.00845267
+1077,India,trn_shipping_intl,2065,0.0124206
+1078,India,trn_shipping_intl,2070,0.0182056
+1079,India,trn_shipping_intl,2075,0.0244437
+1080,India,trn_shipping_intl,2080,0.0317303
+1081,India,trn_shipping_intl,2085,0.043019
+1082,India,trn_shipping_intl,2090,0.0606102
+1083,India,trn_shipping_intl,2095,0.0897058
+1084,India,trn_shipping_intl,2100,0.12991
+1085,South Asia,N fertilizer,2025,0.0002766709
+1086,South Asia,N fertilizer,2030,0.0020949786
+1087,South Asia,N fertilizer,2035,0.0075008845999999995
+1088,South Asia,N fertilizer,2040,0.0153777406
+1089,South Asia,N fertilizer,2045,0.0227734996
+1090,South Asia,N fertilizer,2050,0.030326300599999998
+1091,South Asia,N fertilizer,2055,0.03640715967
+1092,South Asia,N fertilizer,2060,0.042707494631
+1093,South Asia,N fertilizer,2065,0.04951463834
+1094,South Asia,N fertilizer,2070,0.055827717500000006
+1095,South Asia,N fertilizer,2075,0.0622124783
+1096,South Asia,N fertilizer,2080,0.06897832170000001
+1097,South Asia,N fertilizer,2085,0.0760807936
+1098,South Asia,N fertilizer,2090,0.0830197588
+1099,South Asia,N fertilizer,2095,0.08930535430000001
+1100,South Asia,N fertilizer,2100,0.09410999399999999
+1101,South Asia,agricultural energy use,2025,0.00033952697
+1102,South Asia,agricultural energy use,2030,0.0012717878799999999
+1103,South Asia,agricultural energy use,2035,0.00250042386
+1104,South Asia,agricultural energy use,2040,0.003600094945
+1105,South Asia,agricultural energy use,2045,0.00454401894
+1106,South Asia,agricultural energy use,2050,0.00506377892
+1107,South Asia,agricultural energy use,2055,0.00518769381
+1108,South Asia,agricultural energy use,2060,0.0051872867900000005
+1109,South Asia,agricultural energy use,2065,0.005189717860000001
+1110,South Asia,agricultural energy use,2070,0.005251622159999999
+1111,South Asia,agricultural energy use,2075,0.00532555945
+1112,South Asia,agricultural energy use,2080,0.0053700747200000004
+1113,South Asia,agricultural energy use,2085,0.0053756778900000005
+1114,South Asia,agricultural energy use,2090,0.00534244434
+1115,South Asia,agricultural energy use,2095,0.00527619484
+1116,South Asia,agricultural energy use,2100,0.00518007415
+1117,South Asia,chemical energy use,2055,0.00153085
+1118,South Asia,chemical energy use,2060,0.0039010499999999997
+1119,South Asia,chemical energy use,2065,0.0071927399999999996
+1120,South Asia,chemical energy use,2070,0.01150628
+1121,South Asia,chemical energy use,2075,0.016735551
+1122,South Asia,chemical energy use,2080,0.022925198
+1123,South Asia,chemical energy use,2085,0.0300556319
+1124,South Asia,chemical energy use,2090,0.0377607967
+1125,South Asia,chemical energy use,2095,0.04556406376
+1126,South Asia,chemical energy use,2100,0.05308707043
+1127,South Asia,comm heating,2025,4.54336e-06
+1128,South Asia,comm heating,2030,6.0947000000000004e-05
+1129,South Asia,comm heating,2035,0.00015277930000000002
+1130,South Asia,comm heating,2040,0.000313789
+1131,South Asia,comm heating,2045,0.000560253
+1132,South Asia,comm heating,2050,0.000959541
+1133,South Asia,comm heating,2055,0.0013217559999999999
+1134,South Asia,comm heating,2060,0.001919994
+1135,South Asia,comm heating,2065,0.00296927
+1136,South Asia,comm heating,2070,0.00502038
+1137,South Asia,comm heating,2075,0.007753370000000001
+1138,South Asia,comm heating,2080,0.01110458
+1139,South Asia,comm heating,2085,0.01568097
+1140,South Asia,comm heating,2090,0.02214568
+1141,South Asia,comm heating,2095,0.0314913
+1142,South Asia,comm heating,2100,0.0445264
+1143,South Asia,comm others,2025,1.3809170000000001e-05
+1144,South Asia,comm others,2030,0.0001581433
+1145,South Asia,comm others,2035,0.000356769
+1146,South Asia,comm others,2040,0.0006793260000000001
+1147,South Asia,comm others,2045,0.0011473809999999998
+1148,South Asia,comm others,2050,0.001937855
+1149,South Asia,comm others,2055,0.002620534
+1150,South Asia,comm others,2060,0.003526222
+1151,South Asia,comm others,2065,0.00470776
+1152,South Asia,comm others,2070,0.0062686
+1153,South Asia,comm others,2075,0.0080108
+1154,South Asia,comm others,2080,0.01001786
+1155,South Asia,comm others,2085,0.01229242
+1156,South Asia,comm others,2090,0.01484842
+1157,South Asia,comm others,2095,0.01782424
+1158,South Asia,comm others,2100,0.0212161
+1159,South Asia,construction energy use,2025,1.14431e-05
+1160,South Asia,construction energy use,2030,4.251171e-05
+1161,South Asia,construction energy use,2035,0.00010013834999999999
+1162,South Asia,construction energy use,2040,0.000183609219
+1163,South Asia,construction energy use,2045,0.000283485
+1164,South Asia,construction energy use,2050,0.00038795092
+1165,South Asia,construction energy use,2055,0.00047538291000000005
+1166,South Asia,construction energy use,2060,0.0005475537999999999
+1167,South Asia,construction energy use,2065,0.0006110420199999999
+1168,South Asia,construction energy use,2070,0.00067330753
+1169,South Asia,construction energy use,2075,0.0007395443000000001
+1170,South Asia,construction energy use,2080,0.0008041841000000001
+1171,South Asia,construction energy use,2085,0.0008640395
+1172,South Asia,construction energy use,2090,0.000919876
+1173,South Asia,construction energy use,2095,0.00097321
+1174,South Asia,construction energy use,2100,0.0010258695000000002
+1175,South Asia,iron and steel,2025,3.137432e-05
+1176,South Asia,iron and steel,2030,0.00015610947
+1177,South Asia,iron and steel,2035,0.00035160428
+1178,South Asia,iron and steel,2040,0.0006375744319999999
+1179,South Asia,iron and steel,2045,0.00103229804
+1180,South Asia,iron and steel,2050,0.00154598398
+1181,South Asia,iron and steel,2055,0.0021728809999999998
+1182,South Asia,iron and steel,2060,0.0028956995000000004
+1183,South Asia,iron and steel,2065,0.0037340064000000004
+1184,South Asia,iron and steel,2070,0.0047677767
+1185,South Asia,iron and steel,2075,0.0059445248999999995
+1186,South Asia,iron and steel,2080,0.0071520175999999994
+1187,South Asia,iron and steel,2085,0.0083374343
+1188,South Asia,iron and steel,2090,0.0095624022
+1189,South Asia,iron and steel,2095,0.010991698299999998
+1190,South Asia,iron and steel,2100,0.01267504382
+1191,South Asia,mining energy use,2025,5.24879e-08
+1192,South Asia,mining energy use,2030,2.580655e-07
+1193,South Asia,mining energy use,2035,6.432259e-07
+1194,South Asia,mining energy use,2040,1.1520947e-06
+1195,South Asia,mining energy use,2045,1.7923449e-06
+1196,South Asia,mining energy use,2050,2.4062884e-06
+1197,South Asia,mining energy use,2055,2.887611e-06
+1198,South Asia,mining energy use,2060,3.298855e-06
+1199,South Asia,mining energy use,2065,3.69052e-06
+1200,South Asia,mining energy use,2070,4.105639e-06
+1201,South Asia,mining energy use,2075,4.527326e-06
+1202,South Asia,mining energy use,2080,4.923047e-06
+1203,South Asia,mining energy use,2085,5.285501e-06
+1204,South Asia,mining energy use,2090,5.61159e-06
+1205,South Asia,mining energy use,2095,5.904194e-06
+1206,South Asia,mining energy use,2100,6.166675e-06
+1207,South Asia,other industrial energy use,2025,0.00013734719999999997
+1208,South Asia,other industrial energy use,2030,0.0009350947
+1209,South Asia,other industrial energy use,2035,0.0024846685
+1210,South Asia,other industrial energy use,2040,0.0045699484
+1211,South Asia,other industrial energy use,2045,0.0066618021
+1212,South Asia,other industrial energy use,2050,0.00881723824
+1213,South Asia,other industrial energy use,2055,0.010968523356
+1214,South Asia,other industrial energy use,2060,0.013061538043999999
+1215,South Asia,other industrial energy use,2065,0.015036525500000002
+1216,South Asia,other industrial energy use,2070,0.01690282783
+1217,South Asia,other industrial energy use,2075,0.018701249110000002
+1218,South Asia,other industrial energy use,2080,0.020454544800000002
+1219,South Asia,other industrial energy use,2085,0.02215889815
+1220,South Asia,other industrial energy use,2090,0.023733236569999996
+1221,South Asia,other industrial energy use,2095,0.025156392280000002
+1222,South Asia,other industrial energy use,2100,0.026415596139999997
+1223,South Asia,process heat cement,2025,1.799458e-05
+1224,South Asia,process heat cement,2030,0.00032738147000000003
+1225,South Asia,process heat cement,2035,0.00131464868
+1226,South Asia,process heat cement,2040,0.00310123804
+1227,South Asia,process heat cement,2045,0.005227680740000001
+1228,South Asia,process heat cement,2050,0.0078017677
+1229,South Asia,process heat cement,2055,0.010861548281999998
+1230,South Asia,process heat cement,2060,0.014734648512
+1231,South Asia,process heat cement,2065,0.01923531807
+1232,South Asia,process heat cement,2070,0.02442800356
+1233,South Asia,process heat cement,2075,0.030414635909999998
+1234,South Asia,process heat cement,2080,0.0377700988
+1235,South Asia,process heat cement,2085,0.0466666082
+1236,South Asia,process heat cement,2090,0.0565569029
+1237,South Asia,process heat cement,2095,0.0671079238
+1238,South Asia,process heat cement,2100,0.07866596499999999
+1239,South Asia,resid heating,2025,4.2659840000000004e-05
+1240,South Asia,resid heating,2030,0.000551497
+1241,South Asia,resid heating,2035,0.001311442
+1242,South Asia,resid heating,2040,0.002528167
+1243,South Asia,resid heating,2045,0.00432783
+1244,South Asia,resid heating,2050,0.0074665800000000004
+1245,South Asia,resid heating,2055,0.01010087
+1246,South Asia,resid heating,2060,0.014041930000000001
+1247,South Asia,resid heating,2065,0.02043739
+1248,South Asia,resid heating,2070,0.031505399999999996
+1249,South Asia,resid heating,2075,0.0461896
+1250,South Asia,resid heating,2080,0.06472230000000001
+1251,South Asia,resid heating,2085,0.0889113
+1252,South Asia,resid heating,2090,0.1197935
+1253,South Asia,resid heating,2095,0.1578919
+1254,South Asia,resid heating,2100,0.2014917
+1255,South Asia,resid others,2025,0.0001694798
+1256,South Asia,resid others,2030,0.002132723
+1257,South Asia,resid others,2035,0.00538516
+1258,South Asia,resid others,2040,0.01031542
+1259,South Asia,resid others,2045,0.0163437
+1260,South Asia,resid others,2050,0.024985359999999998
+1261,South Asia,resid others,2055,0.02948478
+1262,South Asia,resid others,2060,0.0340796
+1263,South Asia,resid others,2065,0.0395072
+1264,South Asia,resid others,2070,0.0465856
+1265,South Asia,resid others,2075,0.052445500000000006
+1266,South Asia,resid others,2080,0.0572768
+1267,South Asia,resid others,2085,0.061920199999999995
+1268,South Asia,resid others,2090,0.067185
+1269,South Asia,resid others,2095,0.0738606
+1270,South Asia,resid others,2100,0.08188870000000001
+1271,South Asia,trn_aviation_intl,2035,4.45645e-08
+1272,South Asia,trn_aviation_intl,2040,1.125706e-06
+1273,South Asia,trn_aviation_intl,2045,2.106979e-05
+1274,South Asia,trn_aviation_intl,2050,0.00028448199999999996
+1275,South Asia,trn_aviation_intl,2055,0.000662479
+1276,South Asia,trn_aviation_intl,2060,0.001481221
+1277,South Asia,trn_aviation_intl,2065,0.0030195
+1278,South Asia,trn_aviation_intl,2070,0.005798879999999999
+1279,South Asia,trn_aviation_intl,2075,0.00956712
+1280,South Asia,trn_aviation_intl,2080,0.01413334
+1281,South Asia,trn_aviation_intl,2085,0.020200290000000003
+1282,South Asia,trn_aviation_intl,2090,0.0285967
+1283,South Asia,trn_aviation_intl,2095,0.040855699999999995
+1284,South Asia,trn_aviation_intl,2100,0.059587600000000004
+1285,South Asia,trn_freight,2025,6.774e-05
+1286,South Asia,trn_freight,2030,0.000258566
+1287,South Asia,trn_freight,2035,0.00053594582
+1288,South Asia,trn_freight,2040,0.0007276449
+1289,South Asia,trn_freight,2045,0.0008944802
+1290,South Asia,trn_freight,2050,0.0011296729999999999
+1291,South Asia,trn_freight,2055,0.0014394199999999998
+1292,South Asia,trn_freight,2060,0.001817667
+1293,South Asia,trn_freight,2065,0.002212217
+1294,South Asia,trn_freight,2070,0.0026686
+1295,South Asia,trn_freight,2075,0.003010763
+1296,South Asia,trn_freight,2080,0.003293139
+1297,South Asia,trn_freight,2085,0.0035633089999999997
+1298,South Asia,trn_freight,2090,0.0037996460000000003
+1299,South Asia,trn_freight,2095,0.004029451
+1300,South Asia,trn_freight,2100,0.004339139
+1301,South Asia,trn_freight_road,2025,0.000563839192
+1302,South Asia,trn_freight_road,2030,0.003971463855
+1303,South Asia,trn_freight_road,2035,0.014744251617
+1304,South Asia,trn_freight_road,2040,0.026313804008
+1305,South Asia,trn_freight_road,2045,0.03757656963
+1306,South Asia,trn_freight_road,2050,0.046193245300000005
+1307,South Asia,trn_freight_road,2055,0.0519270285
+1308,South Asia,trn_freight_road,2060,0.057549586400000005
+1309,South Asia,trn_freight_road,2065,0.06415284699999999
+1310,South Asia,trn_freight_road,2070,0.07222901500000001
+1311,South Asia,trn_freight_road,2075,0.08041837600000001
+1312,South Asia,trn_freight_road,2080,0.08827136099999999
+1313,South Asia,trn_freight_road,2085,0.096010577
+1314,South Asia,trn_freight_road,2090,0.103528288
+1315,South Asia,trn_freight_road,2095,0.11101646700000001
+1316,South Asia,trn_freight_road,2100,0.117326185
+1317,South Asia,trn_pass,2035,1.1464980000000001e-05
+1318,South Asia,trn_pass,2040,4.78475e-05
+1319,South Asia,trn_pass,2045,0.00018836139999999998
+1320,South Asia,trn_pass,2050,0.000646583
+1321,South Asia,trn_pass,2055,0.001474094
+1322,South Asia,trn_pass,2060,0.00304266
+1323,South Asia,trn_pass,2065,0.0053973400000000005
+1324,South Asia,trn_pass,2070,0.00850509
+1325,South Asia,trn_pass,2075,0.011665060000000001
+1326,South Asia,trn_pass,2080,0.01473917
+1327,South Asia,trn_pass,2085,0.0178513
+1328,South Asia,trn_pass,2090,0.02098933
+1329,South Asia,trn_pass,2095,0.02421119
+1330,South Asia,trn_pass,2100,0.0275587
+1331,South Asia,trn_pass_road,2025,0.0008228210000000001
+1332,South Asia,trn_pass_road,2030,0.0039048600000000004
+1333,South Asia,trn_pass_road,2035,0.01125623
+1334,South Asia,trn_pass_road,2040,0.017044649999999998
+1335,South Asia,trn_pass_road,2045,0.01872261
+1336,South Asia,trn_pass_road,2050,0.01861515
+1337,South Asia,trn_pass_road,2055,0.01817759
+1338,South Asia,trn_pass_road,2060,0.01761712
+1339,South Asia,trn_pass_road,2065,0.01685318
+1340,South Asia,trn_pass_road,2070,0.015813149999999998
+1341,South Asia,trn_pass_road,2075,0.0146941
+1342,South Asia,trn_pass_road,2080,0.013562190000000002
+1343,South Asia,trn_pass_road,2085,0.01280504
+1344,South Asia,trn_pass_road,2090,0.01220321
+1345,South Asia,trn_pass_road,2095,0.011563339999999998
+1346,South Asia,trn_pass_road,2100,0.01074579
+1347,South Asia,trn_pass_road_LDV_4W,2025,2.2412100999999998e-05
+1348,South Asia,trn_pass_road_LDV_4W,2030,0.00044084660200000003
+1349,South Asia,trn_pass_road_LDV_4W,2035,0.0008889035195
+1350,South Asia,trn_pass_road_LDV_4W,2040,0.0013907612246
+1351,South Asia,trn_pass_road_LDV_4W,2045,0.0019509063939
+1352,South Asia,trn_pass_road_LDV_4W,2050,0.002520207673
+1353,South Asia,trn_pass_road_LDV_4W,2055,0.0032205700070000003
+1354,South Asia,trn_pass_road_LDV_4W,2060,0.00394629589
+1355,South Asia,trn_pass_road_LDV_4W,2065,0.00472715108
+1356,South Asia,trn_pass_road_LDV_4W,2070,0.00570156091
+1357,South Asia,trn_pass_road_LDV_4W,2075,0.0068427374400000015
+1358,South Asia,trn_pass_road_LDV_4W,2080,0.00810935918
+1359,South Asia,trn_pass_road_LDV_4W,2085,0.00933359906
+1360,South Asia,trn_pass_road_LDV_4W,2090,0.01062093538
+1361,South Asia,trn_pass_road_LDV_4W,2095,0.01214574257
+1362,South Asia,trn_pass_road_LDV_4W,2100,0.014055304920000001
+1363,South Asia,trn_shipping_intl,2035,1.031829e-05
+1364,South Asia,trn_shipping_intl,2040,4.315205e-05
+1365,South Asia,trn_shipping_intl,2045,0.000196193
+1366,South Asia,trn_shipping_intl,2050,0.000707413
+1367,South Asia,trn_shipping_intl,2055,0.001444751
+1368,South Asia,trn_shipping_intl,2060,0.002630434
+1369,South Asia,trn_shipping_intl,2065,0.004499091
+1370,South Asia,trn_shipping_intl,2070,0.00875596
+1371,South Asia,trn_shipping_intl,2075,0.01517328
+1372,South Asia,trn_shipping_intl,2080,0.02374103
+1373,South Asia,trn_shipping_intl,2085,0.03656239
+1374,South Asia,trn_shipping_intl,2090,0.05309615
+1375,South Asia,trn_shipping_intl,2095,0.07049369999999999
+1376,South Asia,trn_shipping_intl,2100,0.08495509999999999

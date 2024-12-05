@@ -1,0 +1,170 @@
+,region,Year,sector,value
+0,Africa_Western,2030,N fertilizer,0.000509836
+1,Africa_Western,2030,agricultural energy use,0.0003667365
+2,Africa_Western,2030,comm others,2.91478e-07
+3,Africa_Western,2030,construction energy use,2.9967359999999998e-05
+4,Africa_Western,2030,iron and steel,7.277512e-05
+5,Africa_Western,2030,mining energy use,5.09619e-05
+6,Africa_Western,2030,other industrial energy use,0.006619386999999999
+7,Africa_Western,2030,process heat cement,0.0029915980000000003
+8,Africa_Western,2030,transport,0.007310944081
+9,Africa_Western,2050,N fertilizer,0.0066050527
+10,Africa_Western,2050,agricultural energy use,0.0016649117
+11,Africa_Western,2050,comm others,9.6781e-06
+12,Africa_Western,2050,construction energy use,0.00017221399
+13,Africa_Western,2050,iron and steel,0.00085122457
+14,Africa_Western,2050,mining energy use,0.0003090018
+15,Africa_Western,2050,other industrial energy use,0.10947990400000002
+16,Africa_Western,2050,process heat cement,0.0658946833
+17,Africa_Western,2050,transport,0.11968940437999998
+18,Africa_Western,2085,N fertilizer,0.0184167808
+19,Africa_Western,2085,agricultural energy use,0.002101981
+20,Africa_Western,2085,chemical energy use,0.0065656985
+21,Africa_Western,2085,comm others,7.3514e-05
+22,Africa_Western,2085,construction energy use,0.0002990223
+23,Africa_Western,2085,iron and steel,0.0060749284
+24,Africa_Western,2085,mining energy use,0.0006264438
+25,Africa_Western,2085,other industrial energy use,0.50930237
+26,Africa_Western,2085,process heat cement,0.29953152400000005
+27,Africa_Western,2085,transport,0.7795935814
+28,Brazil,2030,N fertilizer,0.000582231
+29,Brazil,2030,agricultural energy use,0.00607149
+30,Brazil,2030,comm heating,2.01238e-06
+31,Brazil,2030,comm others,2.42031e-05
+32,Brazil,2030,construction energy use,0.0001703888
+33,Brazil,2030,iron and steel,0.0023429999
+34,Brazil,2030,mining energy use,0.001224352
+35,Brazil,2030,other industrial energy use,0.0027982
+36,Brazil,2030,process heat cement,0.00024919500099999996
+37,Brazil,2030,resid heating,2.10285e-06
+38,Brazil,2030,resid others,7.71504e-05
+39,Brazil,2030,transport,0.040406169320000004
+40,Brazil,2050,N fertilizer,0.0116237142
+41,Brazil,2050,agricultural energy use,0.01978999
+42,Brazil,2050,comm heating,1.00521e-05
+43,Brazil,2050,comm others,0.000133367
+44,Brazil,2050,construction energy use,0.0012461522
+45,Brazil,2050,iron and steel,0.0042896315
+46,Brazil,2050,mining energy use,0.004421329
+47,Brazil,2050,other industrial energy use,0.0317500597
+48,Brazil,2050,process heat cement,0.002320732875
+49,Brazil,2050,resid heating,1.1437e-05
+50,Brazil,2050,resid others,0.000374323
+51,Brazil,2050,transport,0.145774451
+52,Brazil,2085,N fertilizer,0.026589746200000004
+53,Brazil,2085,agricultural energy use,0.02502387
+54,Brazil,2085,chemical energy use,0.0186902633
+55,Brazil,2085,comm heating,7.09682e-05
+56,Brazil,2085,comm others,0.00110509
+57,Brazil,2085,construction energy use,0.0024546240000000003
+58,Brazil,2085,iron and steel,0.0088402593
+59,Brazil,2085,mining energy use,0.00508973
+60,Brazil,2085,other industrial energy use,0.1896949709
+61,Brazil,2085,process heat cement,0.0592159796
+62,Brazil,2085,resid heating,0.000129198
+63,Brazil,2085,resid others,0.00261165
+64,Brazil,2085,transport,0.43643515000000005
+65,China,2030,N fertilizer,0.01740407
+66,China,2030,agricultural energy use,0.01606155
+67,China,2030,comm heating,0.00567738
+68,China,2030,comm others,0.00174135
+69,China,2030,construction energy use,0.008797909999999999
+70,China,2030,iron and steel,0.10614410999999999
+71,China,2030,mining energy use,0.002921192
+72,China,2030,other industrial energy use,0.0041392370000000005
+73,China,2030,resid heating,0.0163291
+74,China,2030,resid others,0.0124318
+75,China,2030,transport,0.12328930538999999
+76,China,2050,N fertilizer,0.212969475
+77,China,2050,agricultural energy use,0.04862146
+78,China,2050,comm heating,0.0335075
+79,China,2050,comm others,0.0093388
+80,China,2050,construction energy use,0.030259759999999997
+81,China,2050,iron and steel,0.32259271
+82,China,2050,mining energy use,0.009689051
+83,China,2050,other industrial energy use,0.0390181609
+84,China,2050,process heat cement,0.07540089999999999
+85,China,2050,resid heating,0.12311
+86,China,2050,resid others,0.0602324
+87,China,2050,transport,0.6142013848000001
+88,China,2085,N fertilizer,0.33651428399999994
+89,China,2085,agricultural energy use,0.04541829
+90,China,2085,chemical energy use,0.055425866
+91,China,2085,comm heating,0.150062
+92,China,2085,comm others,0.0219929
+93,China,2085,construction energy use,0.024485970000000003
+94,China,2085,iron and steel,0.7001019900000001
+95,China,2085,mining energy use,0.009014358
+96,China,2085,other industrial energy use,0.10376747589999999
+97,China,2085,process heat cement,0.30540616350000005
+98,China,2085,resid heating,0.888475
+99,China,2085,resid others,0.134232
+100,China,2085,transport,1.848472079
+101,India,2030,N fertilizer,0.005259309
+102,India,2030,agricultural energy use,0.01157274
+103,India,2030,comm others,0.000444617
+104,India,2030,construction energy use,0.000811612
+105,India,2030,iron and steel,0.004525541
+106,India,2030,mining energy use,0.001904649
+107,India,2030,other industrial energy use,0.006307429000000001
+108,India,2030,process heat cement,0.0016717275000000002
+109,India,2030,resid others,0.000307273
+110,India,2030,transport,0.042342918460000004
+111,India,2050,N fertilizer,0.0920457957
+112,India,2050,agricultural energy use,0.04519636
+113,India,2050,comm others,0.0026311
+114,India,2050,construction energy use,0.004886275
+115,India,2050,iron and steel,0.0062307054
+116,India,2050,mining energy use,0.008122568
+117,India,2050,other industrial energy use,0.0502004264
+118,India,2050,process heat cement,0.029403233600000002
+119,India,2050,resid others,0.0015546
+120,India,2050,transport,0.35373805635
+121,India,2085,N fertilizer,0.22250974599999998
+122,India,2085,agricultural energy use,0.04082239
+123,India,2085,chemical energy use,0.0035394529999999997
+124,India,2085,comm others,0.00526089
+125,India,2085,construction energy use,0.00700661
+126,India,2085,iron and steel,0.013440341043000001
+127,India,2085,mining energy use,0.008578699
+128,India,2085,other industrial energy use,0.0890792946
+129,India,2085,process heat cement,0.192451462
+130,India,2085,resid others,0.00222108
+131,India,2085,transport,0.75789758568
+132,South Asia,2030,N fertilizer,0.0020949786
+133,South Asia,2030,agricultural energy use,0.0012717878799999999
+134,South Asia,2030,comm heating,6.0947000000000004e-05
+135,South Asia,2030,comm others,0.0001581433
+136,South Asia,2030,construction energy use,4.251171e-05
+137,South Asia,2030,iron and steel,0.00015610947
+138,South Asia,2030,mining energy use,2.580655e-07
+139,South Asia,2030,other industrial energy use,0.0009350947
+140,South Asia,2030,process heat cement,0.00032738147000000003
+141,South Asia,2030,resid heating,0.000551497
+142,South Asia,2030,resid others,0.002132723
+143,South Asia,2030,transport,0.008575736457
+144,South Asia,2050,N fertilizer,0.030326300599999998
+145,South Asia,2050,agricultural energy use,0.00506377892
+146,South Asia,2050,comm heating,0.000959541
+147,South Asia,2050,comm others,0.001937855
+148,South Asia,2050,construction energy use,0.00038795092
+149,South Asia,2050,iron and steel,0.00154598398
+150,South Asia,2050,mining energy use,2.4062884e-06
+151,South Asia,2050,other industrial energy use,0.00881723824
+152,South Asia,2050,process heat cement,0.0078017677
+153,South Asia,2050,resid heating,0.0074665800000000004
+154,South Asia,2050,resid others,0.024985359999999998
+155,South Asia,2050,transport,0.07009675397300001
+156,South Asia,2085,N fertilizer,0.0760807936
+157,South Asia,2085,agricultural energy use,0.0053756778900000005
+158,South Asia,2085,chemical energy use,0.0300556319
+159,South Asia,2085,comm heating,0.01568097
+160,South Asia,2085,comm others,0.01229242
+161,South Asia,2085,construction energy use,0.0008640395
+162,South Asia,2085,iron and steel,0.0083374343
+163,South Asia,2085,mining energy use,5.285501e-06
+164,South Asia,2085,other industrial energy use,0.02215889815
+165,South Asia,2085,process heat cement,0.0466666082
+166,South Asia,2085,resid heating,0.0889113
+167,South Asia,2085,resid others,0.061920199999999995
+168,South Asia,2085,transport,0.19632650506000002

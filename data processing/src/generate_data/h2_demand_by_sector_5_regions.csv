@@ -1,0 +1,91 @@
+,region,sector,value
+0,Africa_Western,N fertilizer,0.17307117911
+1,Africa_Western,agricultural energy use,0.0254269712
+2,Africa_Western,chemical energy use,0.051103991035
+3,Africa_Western,comm others,0.0006068511142
+4,Africa_Western,construction energy use,0.0032374750700000002
+5,Africa_Western,iron and steel,0.05202241403
+6,Africa_Western,mining energy use,0.00646218443
+7,Africa_Western,other industrial energy use,4.40761292295
+8,Africa_Western,process heat cement,2.58640688354
+9,Africa_Western,trn_aviation_intl,0.21445144857299997
+10,Africa_Western,trn_freight,0.06394519934
+11,Africa_Western,trn_freight_road,2.9929912240097
+12,Africa_Western,trn_pass,2.379023838
+13,Africa_Western,trn_pass_road,0.11084327100000002
+14,Africa_Western,trn_pass_road_LDV_4W,0.188588286555
+15,Africa_Western,trn_shipping_intl,0.6107728655
+16,Brazil,N fertilizer,0.24857792837
+17,Brazil,agricultural energy use,0.31112799799999996
+18,Brazil,chemical energy use,0.145207084
+19,Brazil,comm heating,0.0006481461959999999
+20,Brazil,comm others,0.00999479489
+21,Brazil,construction energy use,0.025529619479999998
+22,Brazil,iron and steel,0.10219022786999998
+23,Brazil,mining energy use,0.0652381804
+24,Brazil,other industrial energy use,1.7757306409199998
+25,Brazil,process heat cement,0.48168011378600006
+26,Brazil,resid heating,0.001169300714
+27,Brazil,resid others,0.02399310378
+28,Brazil,trn_aviation_intl,0.0653776797502
+29,Brazil,trn_freight,0.25685650689999995
+30,Brazil,trn_freight_road,1.511448891634
+31,Brazil,trn_pass,0.5218288640000001
+32,Brazil,trn_pass_road,0.22643374000000002
+33,Brazil,trn_pass_road_LDV_4W,1.2642192419999998
+34,Brazil,trn_shipping_intl,0.6848632507
+35,China,N fertilizer,3.7601595863999995
+36,China,agricultural energy use,0.6422292119999999
+37,China,chemical energy use,0.43458547362
+38,China,comm heating,1.3959961889999999
+39,China,comm others,0.232502912
+40,China,construction energy use,0.3692525360000001
+41,China,iron and steel,7.25438414
+42,China,mining energy use,0.126961898
+43,China,other industrial energy use,1.00561971485
+44,China,process heat cement,2.7420204055
+45,China,resid heating,7.75435183
+46,China,resid others,1.4397698700000001
+47,China,trn_aviation_intl,0.258721937973
+48,China,trn_freight,4.836858132000001
+49,China,trn_freight_road,2.303313898548
+50,China,trn_pass,5.345246059999999
+51,China,trn_pass_road,1.4878234999999997
+52,China,trn_pass_road_LDV_4W,0.47929855910999997
+53,China,trn_shipping_intl,3.260667657
+54,India,N fertilizer,2.15275128687
+55,India,agricultural energy use,0.5761900339999999
+56,India,chemical energy use,0.02727389449
+57,India,comm others,0.05394537829999999
+58,India,construction energy use,0.0805706291
+59,India,iron and steel,0.14653912687603
+60,India,mining energy use,0.11258998009999999
+61,India,other industrial energy use,0.95379259027
+62,India,process heat cement,1.6406764444589998
+63,India,resid others,0.025260982899999996
+64,India,trn_aviation_intl,0.133262425425
+65,India,trn_freight,0.6465004395
+66,India,trn_freight_road,3.52460318596
+67,India,trn_pass,2.614429202
+68,India,trn_pass_road,0.40226687
+69,India,trn_pass_road_LDV_4W,0.074535122831
+70,India,trn_shipping_intl,0.42739764430000005
+71,South Asia,N fertilizer,0.736513785741
+72,South Asia,agricultural energy use,0.07000597752500001
+73,South Asia,chemical energy use,0.23025923179
+74,South Asia,comm heating,0.14598555266
+75,South Asia,comm others,0.10562623947000001
+76,South Asia,construction energy use,0.008643147959
+77,South Asia,iron and steel,0.071988429242
+78,South Asia,mining energy use,5.27054653e-05
+79,South Asia,other industrial energy use,0.21619543092
+80,South Asia,process heat cement,0.404232364244
+81,South Asia,resid heating,0.77131406584
+82,South Asia,resid others,0.6035658228
+83,South Asia,trn_aviation_intl,0.1842095520605
+84,South Asia,trn_freight,0.03378740092
+85,South Asia,trn_freight_road,0.9717929045020001
+86,South Asia,trn_pass,0.13632819088
+87,South Asia,trn_pass_road,0.21440103099999996
+88,South Asia,trn_pass_road_LDV_4W,0.08591729395099999
+89,South Asia,trn_shipping_intl,0.30230896234
